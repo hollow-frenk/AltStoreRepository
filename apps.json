@@ -26,7 +26,7 @@
             {
             "beta": false,
             "name": "Spotify",
-            "bundleIdentifier": "com.spotify.client.watchkitapp",
+            "bundleIdentifier": "com.spotify.client",
             "version": "8.8.6",
             "versionDate": "2023-02-06",
             "size": 72789959,
