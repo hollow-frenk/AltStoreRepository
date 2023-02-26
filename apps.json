@@ -5,7 +5,7 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "MiRO92 & Qn_",
       "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.07.5-2.3.1/uYouPlus_18.07.5_2.3.1.ipa",
-      "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/icon_clipped.png",
+      "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/0c/7e/84/0c7e8485-3e2b-9750-ee77-97f42c5f0d14/logo_youtube_color-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "uYouPlus is a modified version of uYou with some extra features! (requires iOS 14.0 and later).\n\nFull infomation about uYouPlus (uYou+) is available on my Github: https://github.com/qnblackcat/uYouPlus/\n\nCredits: Please keep the Credits if you re-up uYouPlus! \nhttps://github.com/qnblackcat/uYouPlus#credits\n\nAttention:\n- If you like the app, considering support the developers!\n- YTUHD is not stable atm. You might encounter stuttering, heat, battery drain..., especially when playing at 2160p (4K) quality. However, this should not happen if you use TrollStore.\n- Unless you're using TrollStore, deep-link (aka Open in the YouTube App) simply will not work.\n\nKnown issues:\n- uYou's issues: https://github.com/MiRO92/uYou-for-YouTube/issues\n- uYouPlus's issues: https://github.com/qnblackcat/uYouPlus",
       "name": "uYouPlus (uYou+)",
       "screenshotURLs": [
@@ -22,9 +22,33 @@
       "versionDate": "2023-02-26T12:00:00-01:00",
       "versionDescription": "v18.07.5 (2.3~1): The changelog can be found at\nhttps://github.com/qnblackcat/uYouPlus/releases/latest"
     }
+    
+        {
+      "beta": false,
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "ginsudev",
+      "downloadURL": "https://github.com/ginsudev/YTMusicUltimate/releases/download/v1.2.7/YTMusicUltimate_v1.2.7.ipa",
+      "iconURL": "https://play-lh.googleusercontent.com/GnYnNfKBr2nysHBYgYRCQtcv_RRNN0Sosn47F5ArKJu89DMR3_jHRAazoIVsPUoaMg=w240-h480-rw",
+      "localizedDescription": "YTMusic Ultimate is a modified version of YouTube Music with some extra features!\n\nFull infomation about YTMusic Ultimate is available on Github: https://github.com/ginsudev/YTMusicUltimate\n\nKnown issues:\n- YTMusic Ultimate issues: https://github.com/ginsudev/YTMusicUltimate/issues",
+      "name": "YTMusic Ultimate",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2393.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1522.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2394.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1523.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2395.PNG"
+      ],
+      "size": 57400000,
+      "subtitle": "A modified version of YouTube Music with extra features!",
+      "tintColor": "e85567",
+      "version": "1.2.7",
+      "versionDate": "2022-11-16T12:00:00-01:00",
+      "versionDescription": "v1.2.7: The changelog can be found at\nhttps://github.com/ginsudev/YTMusicUltimate/releases/latest"
+    }
+    
   ],
-  "identifier": "com.qn.altstorerepo",
-  "name": "Qn_'s AltStore Repo",
+  "identifier": "com.hollowfrenk.altstorerepo",
+  "name": "Hollow_frenk AltStore Repo",
   "news": [
   ],
   "userInfo": {}
