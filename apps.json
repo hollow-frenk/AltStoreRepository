@@ -21,7 +21,21 @@
       "version": "18.07.5",
       "versionDate": "2023-02-26T12:00:00-01:00",
       "versionDescription": "v18.07.5 (2.3~1): The changelog can be found at\nhttps://github.com/qnblackcat/uYouPlus/releases/latest"
-    }
+    },
+    
+            {
+            "beta": false,
+            "name": "Spotify",
+            "bundleIdentifier": "com.spotify.client.watchkitapp",
+            "version": "8.8.6",
+            "versionDate": "2023-02-06",
+            "size": 72789959,
+            "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Spotify8.8.6_Spotilife1.8.ipa",
+            "developerName": "",
+            "localizedDescription": "Spotilife1.8",
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.spotify.client.watchkitapp.png"
+        },
+    
     
   ],
   "identifier": "com.hollowfrenk.altstorerepo",
