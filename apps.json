@@ -33,6 +33,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Spotify8.8.6_Spotilife1.8.ipa",
             "developerName": "",
             "localizedDescription": "Spotilife1.8",
+            "tintColor": "1db954",
             "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.spotify.client.watchkitapp.png",
             "screenshotURLs": [
               "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2393.PNG",
@@ -51,6 +52,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/SCMusicPlus2.2.1-SoundCloud6.10.0/SoundCloud6.10.0_SCMusicPlus2.2.1.ipa",
             "developerName": "",
             "localizedDescription": "SCMusicPlus2.2.1",
+            "tintColor": "ff7700",
             "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.soundcloud.TouchApp.png"
         },
     
