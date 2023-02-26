@@ -36,11 +36,11 @@
             "tintColor": "1db954",
             "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.spotify.client.watchkitapp.png",
             "screenshotURLs": [
-              "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2393.PNG",
-              "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1522.PNG",
-              "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2394.PNG",
-              "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1523.PNG",
-              "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2395.PNG"
+             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/ScreenshotSpotify/screenshot1.png",
+             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/ScreenshotSpotify/screenshot2.png",
+             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/ScreenshotSpotify/screenshot3.png",
+             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/ScreenshotSpotify/screenshot4.png",
+             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/ScreenshotSpotify/screenshot5.png"
             ],
         },
             {
@@ -53,6 +53,13 @@
             "developerName": "",
             "localizedDescription": "SCMusicPlus2.2.1",
             "tintColor": "ff7700",
+            "screenshotURLs": [
+             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/ScreenshotSoundcloud/screenshot1.png",
+             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/ScreenshotSoundcloud/screenshot2.png",
+             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/ScreenshotSoundcloud/screenshot3.png",
+             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/ScreenshotSoundcloud/screenshot4.png",
+             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/ScreenshotSoundcloud/screenshot5.png"
+            ],
             "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.soundcloud.TouchApp.png"
         },
     
