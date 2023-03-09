@@ -22,45 +22,7 @@
          "versionDate":"2023-02-28T12:00:00-01:00",
          "versionDescription":"v18.08.1 (2.3~1): The changelog can be found at\nhttps://github.com/qnblackcat/uYouPlus/releases/latest"
       },
-      {
-         "beta":false,
-         "name":"Spotify",
-         "bundleIdentifier":"com.spotify.client",
-         "version":"8.8.6",
-         "versionDate":"2023-02-06",
-         "size":72789959,
-         "downloadURL":"https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Spotify8.8.6_Spotilife1.8.ipa",
-         "developerName":"",
-         "localizedDescription":"Spotilife1.8",
-         "tintColor":"1db954",
-         "iconURL":"https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Appicon/Spotify.png",
-         "screenshotURLs":[
-            "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/ScreenshotSpotify/screenshot1.png",
-            "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/ScreenshotSpotify/screenshot2.png",
-            "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/ScreenshotSpotify/screenshot3.png",
-            "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/ScreenshotSpotify/screenshot4.png",
-            "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/ScreenshotSpotify/screenshot5.png"
-         ]
-      },
-      {
-         "name":"SoundCloud",
-         "bundleIdentifier":"com.soundcloud.TouchApp",
-         "version":"6.10.0",
-         "versionDate":"2022-10-28",
-         "size":74972739,
-         "downloadURL":"https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/SCMusicPlus2.2.1-SoundCloud6.10.0/SoundCloud6.10.0_SCMusicPlus2.2.1.ipa",
-         "developerName":"",
-         "localizedDescription":"SCMusicPlus2.2.1",
-         "tintColor":"f26f23",
-         "screenshotURLs":[
-            "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/ScreenshotSoundcloud/screenshot1.png",
-            "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/ScreenshotSoundcloud/screenshot2.png",
-            "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/ScreenshotSoundcloud/screenshot3.png",
-            "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/ScreenshotSoundcloud/screenshot4.png",
-            "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/ScreenshotSoundcloud/screenshot5.png"
-         ],
-         "iconURL":"https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Appicon/Soundcloud.png"
-      }
+      
    ],
    "identifier":"com.hollowfrenk.altstorerepository",
    "name":"Hollow_frenk AltStore Repository",
