@@ -6,7 +6,7 @@
          "developerName":"MiRO92 & Qn_",
          "downloadURL":"https://github.com/qnblackcat/uYouPlus/releases/download/v18.08.1-2.3.1/uYouPlus_18.08.1_2.3.1.ipa",
          "iconURL":"https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Appicon/YouTube.png",
-         "localizedDescription":"uYouPlus is a modified version of uYou with some extra features! (requires iOS 14.0 and later).\n\nFull infomation about uYouPlus (uYou+) is available on my Github: https://github.com/qnblackcat/uYouPlus/\n\nCredits: Please keep the Credits if you re-up uYouPlus! \nhttps://github.com/qnblackcat/uYouPlus#credits\n\nAttention:\n- If you like the app, considering support the developers!\n- YTUHD is not stable atm. You might encounter stuttering, heat, battery drain..., especially when playing at 2160p (4K) quality. However, this should not happen if you use TrollStore.\n- Unless you're using TrollStore, deep-link (aka Open in the YouTube App) simply will not work.\n\nKnown issues:\n- uYou's issues: https://github.com/MiRO92/uYou-for-YouTube/issues\n- uYouPlus's issues: https://github.com/qnblackcat/uYouPlus",
+         "localizedDescription":"uYouPlus è una versione modificata di uYou con alcune funzionalità extra! (richiede iOS 14.0 e versioni successive).\n\nLe informazioni complete su uYouPlus (uYou+) sono disponibili sul Github di Nguyễn Đạt: https://github.com/qnblackcat/uYouPlus/\n\nCrediti: conservare i crediti se si ricarica uYouPlus! \nhttps://github.com/qnblackcat/uYouPlus#credits\n\nAttenzione:\n- Se ti piace l'app, considera il supporto degli sviluppatori!\n- YTUHD non è stabile al momento. Potresti riscontrare rallentamenti, surriscaldamento, consumo eccessivo della batteria..., specialmente quando riproduci video con qualità 2160p (4K). Tuttavia, ciò non dovrebbe accadere se utilizzi TrollStore.\n- A meno che tu non stia utilizzando TrollStore, il deep-link (ovvero Apri nell'app YouTube) semplicemente non funzionerà.\n\nProblemi noti:\n- Problemi di uYou’s: https ://github.com/MiRO92/uYou-for-YouTube/issues\n- Problemi di uYouPlus: https://github.com/qnblackcat/uYouPlus",
          "name":"uYouPlus (uYou+)",
          "screenshotURLs":[
             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/screenshot1.png",
@@ -16,13 +16,12 @@
             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/screenshot5.png"
          ],
          "size":110043700,
-         "subtitle":"A modified version of uYou with extra features! Requires iOS 14.0 and later.",
+         "subtitle":"Una versione modificata di uYou con funzionalità extra! Richiede iOS 14.0 e versioni successive.",
          "tintColor":"ff0000",
          "version":"18.08.1",
          "versionDate":"2023-02-28T12:00:00-01:00",
-         "versionDescription":"v18.08.1 (2.3~1): The changelog can be found at\nhttps://github.com/qnblackcat/uYouPlus/releases/latest"
-      },
-      
+         "versionDescription":"v18.08.1 (2.3~1): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/qnblackcat/uYouPlus/releases/latest"
+      }
    ],
    "identifier":"com.hollowfrenk.altstorerepository",
    "name":"Hollow_frenk AltStore Repository",
