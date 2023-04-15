@@ -1,49 +1,48 @@
 {
-   "apps": [
-      {
-         "beta": false,
-         "bundleIdentifier": "com.google.ios.youtube",
-         "developerName": "MiRO92 & Qn_",
-         "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.08.1-2.3.1/uYouPlus_18.08.1_2.3.1.ipa",
-         "iconURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Appicon/YouTube.png",
-         "localizedDescription": "uYouPlus è una versione modificata di uYou con alcune funzionalità extra! (richiede iOS 14.0 e versioni successive).\n\nLe informazioni complete su uYouPlus (uYou+) sono disponibili sul Github di Nguyễn Đạt: https://github.com/qnblackcat/uYouPlus/\n\nCrediti: conservare i crediti se si ricarica uYouPlus! \nhttps://github.com/qnblackcat/uYouPlus#credits\n\nAttenzione:\n- Se ti piace l'app, considera il supporto degli sviluppatori!\n- YTUHD non è stabile al momento. Potresti riscontrare rallentamenti, surriscaldamento, consumo eccessivo della batteria..., specialmente quando riproduci video con qualità 2160p (4K). Tuttavia, ciò non dovrebbe accadere se utilizzi TrollStore.\n- A meno che tu non stia utilizzando TrollStore, il deep-link (ovvero Apri nell'app YouTube) semplicemente non funzionerà.\n\nProblemi noti:\n- Problemi di uYou’s: https ://github.com/MiRO92/uYou-for-YouTube/issues\n- Problemi di uYouPlus: https://github.com/qnblackcat/uYouPlus",
-         "name": "uYouPlus (uYou+)",
-         "screenshotURLs": [
-            "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/screenshot1.png",
-            "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/screenshot2.png",
-            "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/screenshot3.png",
-            "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/screenshot4.png",
-            "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/screenshot5.png"
-         ],
-         "size":110043700,
-         "subtitle":"Una versione modificata di uYou con funzionalità extra! Richiede iOS 14.0 e versioni successive.",
-         "tintColor":"ff0000",
-         "version":"18.08.1",
-         "versionDate":"2023-02-28T12:00:00-01:00",
-         "versionDescription":"v18.08.1 (2.3~1): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/qnblackcat/uYouPlus/releases/latest"
-      },
-      
-{
-            "name": "iTorrent",
-            "bundleIdentifier": "ru.nonamedude.iTorrent",
-            "developerName": "Vinogradov Daniil",
-            "version": "1.9",
-            "versionDate": "2022-12-28T12:00:00-01:00",
-            "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/iTorrent.ipa",
-            "localizedDescription": "Le informazioni complete su iTorrent sono disponibili sul Github di Vinogradov Daniil: https://github.com/XITRIX/iTorrent",
-            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/iTorrent.png",
-            "tintColor": "FF273A",
-            "size": 13454780,
-            "subtitle": "È un normale client torrent per iOS."
-            "screenshotURLs": [
-                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
-                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
-            ]
-        },      
-      
-   ],
-   "identifier": "com.hollowfrenk.altstorerepository",
-   "name": "Hollow_frenk AltStore Repository",
-   "news": [],
-   "userInfo": {}
+	"apps": [{
+			"beta": false,
+			"bundleIdentifier": "com.google.ios.youtube",
+			"developerName": "MiRO92 & Qn_",
+			"downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.08.1-2.3.1/uYouPlus_18.08.1_2.3.1.ipa",
+			"iconURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Appicon/YouTube.png",
+			"localizedDescription": "uYouPlus è una versione modificata di uYou con alcune funzionalità extra! (richiede iOS 14.0 e versioni successive).\n\nLe informazioni complete su uYouPlus (uYou+) sono disponibili sul Github di Nguyễn Đạt: https://github.com/qnblackcat/uYouPlus/\n\nCrediti: conservare i crediti se si ricarica uYouPlus! \nhttps://github.com/qnblackcat/uYouPlus#credits\n\nAttenzione:\n- Se ti piace l'app, considera il supporto degli sviluppatori!\n- YTUHD non è stabile al momento. Potresti riscontrare rallentamenti, surriscaldamento, consumo eccessivo della batteria..., specialmente quando riproduci video con qualità 2160p (4K). Tuttavia, ciò non dovrebbe accadere se utilizzi TrollStore.\n- A meno che tu non stia utilizzando TrollStore, il deep-link (ovvero Apri nell'app YouTube) semplicemente non funzionerà.\n\nProblemi noti:\n- Problemi di uYou’s: https ://github.com/MiRO92/uYou-for-YouTube/issues\n- Problemi di uYouPlus: https://github.com/qnblackcat/uYouPlus",
+			"name": "uYouPlus (uYou+)",
+			"screenshotURLs": [
+				"https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/screenshot1.png",
+				"https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/screenshot2.png",
+				"https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/screenshot3.png",
+				"https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/screenshot4.png",
+				"https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/screenshot5.png"
+			],
+			"size": 110043700,
+			"subtitle": "Una versione modificata di uYou con funzionalità extra! Richiede iOS 14.0 e versioni successive.",
+			"tintColor": "ff0000",
+			"version": "18.08.1",
+			"versionDate": "2023-02-28T12:00:00-01:00",
+			"versionDescription": "v18.08.1 (2.3~1): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/qnblackcat/uYouPlus/releases/latest"
+		},
+
+		{
+			"name": "iTorrent",
+			"bundleIdentifier": "ru.nonamedude.iTorrent",
+			"developerName": "Vinogradov Daniil",
+			"version": "1.9",
+			"versionDate": "2022-12-28T12:00:00-01:00",
+			"downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/iTorrent.ipa",
+			"localizedDescription": "Le informazioni complete su iTorrent sono disponibili sul Github di Vinogradov Daniil: https://github.com/XITRIX/iTorrent",
+			"iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/iTorrent.png",
+			"tintColor": "FF273A",
+			"size": 13454780,
+			"subtitle": "È un normale client torrent per iOS.",
+			"screenshotURLs": [
+				"https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+				"https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+			]
+		}
+
+	],
+	"identifier": "com.hollowfrenk.altstorerepository",
+	"name": "Hollow_frenk AltStore Repository",
+	"news": [],
+	"userInfo": {}
 }
