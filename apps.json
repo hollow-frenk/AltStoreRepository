@@ -21,7 +21,25 @@
          "version":"18.08.1",
          "versionDate":"2023-02-28T12:00:00-01:00",
          "versionDescription":"v18.08.1 (2.3~1): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/qnblackcat/uYouPlus/releases/latest"
-      }
+      },
+      
+{
+            "name": "iTorrent",
+            "bundleIdentifier": "ru.nonamedude.iTorrent",
+            "developerName": "Vinogradov Daniil",
+            "version": "1.9",
+            "versionDate": "2022-12-28T12:00:00-01:00",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/iTorrent.ipa",
+            "localizedDescription": "Le informazioni complete su iTorrent sono disponibili sul Github di Vinogradov Daniil: https://github.com/XITRIX/iTorrent",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/iTorrent.png",
+            "tintColor": "FF273A",
+            "size": 13454780,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },      
+      
    ],
    "identifier":"com.hollowfrenk.altstorerepository",
    "name":"Hollow_frenk AltStore Repository",
