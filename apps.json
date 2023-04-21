@@ -1,5 +1,6 @@
 {
 "apps":[
+   
       {
          "beta":false,
          "bundleIdentifier":"com.google.ios.youtube",
@@ -22,7 +23,43 @@
          "versionDate":"2023-04-17T12:00:00-01:00",
          "versionDescription":"v18.15.1 (3.0): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/qnblackcat/uYouPlus/releases/latest"
       },
+
+       {
+         "beta":true,
+         "name":"NineAnimator",
+         "bundleIdentifier":"com.marcuszhou.NineAnimator",
+         "developerName":"Marcus Zhou",
+         "version":"1.2.7 (643548323)",
+         "versionDate":"2023-04-12T12:00:00-01:00",
+         "versionDescription":"Versione: NineAnimator_Nightly.f00421ea.iOS\nNote sulla versione precedente:\nImportante\r• Esegui il backup dei dati: ricorda di eseguire il backup della cronologia e degli abbonamenti prima di aggiornare l'app. In alcuni rari casi, gli aggiornamenti di NineAnimator potrebbero causare il ripristino delle impostazioni dell'app. Usa l'opzione 'Crea backup' nelle impostazioni dell'app per creare un file di backup.\r\n\r\n• Utenti TestFlight: tieni presente che le build della versione 1.2.7 non saranno immediatamente disponibili per NineAnimator Beta Programma di test. Utilizza [altri metodi di installazione](https://nineanimator.marcuszhou.com/docs/installation.html). Unisciti al nostro [server Discord](https://discord.gg/dzTVzeW) per ulteriori informazioni.\r\n\r\n• Utenti macOS: la build di macCatalyst non è firmata. Se il sistema ti dice che l'app non può essere aperta, vai su 'Preferenze di sistema -> Sicurezza e privacy' e consenti l'esecuzione dell'app. Unisciti al nostro [server Discord](https://discord.gg/dzTVzeW) per ulteriori informazioni.\r\n\r\n• Utenti iOS 12: a partire dalla versione 1.2.7 Build 6, NineAnimator solo supporta i dispositivi con iOS 12.3 o versioni successive. Unisciti al nostro [server Discord](https://discord.gg/dzTVzeW) per ulteriori informazioni.",
+         "downloadURL":"https://9ani.app/api/github/nightly/ios?bin=true",
+         "localizedDescription":"Questa è la versione alpha di NineAnimator che è instabile ma contiene le ultime correzioni di bug e funzionalità.\nNineAnimator è un'applicazione di streaming anime elegante e concisa specificamente progettata per iOS. È open source, il che significa che chiunque è invitato a contribuire e collaborare al progetto e, cosa più importante, che sei incoraggiato a \"modellare\" NineAnimator come preferisci (sotto i termini di GNU GPL 3.0).",
+         "iconURL":"https://raw.githubusercontent.com/SuperMarcus/NineAnimator/master/Misc/icon_rendered.png",
+         "tintColor":"8038E5",
+         "size":25295450,
+         "screenshotURLs":["https://github.com/SuperMarcus/NineAnimator/raw/master/Misc/Media/Demo/Dark/watch_next.dark.png",
+                           "https://github.com/SuperMarcus/NineAnimator/raw/master/Misc/Media/Demo/Dark/browse_episodes.png",
+                           "https://github.com/SuperMarcus/NineAnimator/raw/master/Misc/Media/Demo/Dark/information.png",
+                           "https://github.com/SuperMarcus/NineAnimator/raw/master/Misc/Media/Demo/Dark/library.dark.png",
+                           "https://github.com/SuperMarcus/NineAnimator/raw/master/Misc/Media/Demo/Dark/listing_edit.dark.png",
+                           "https://github.com/SuperMarcus/NineAnimator/raw/master/Misc/Media/Demo/Dark/search.png",
+                           "https://github.com/SuperMarcus/NineAnimator/raw/master/Misc/Media/Demo/Dark/featured.png",
+                           "https://github.com/SuperMarcus/NineAnimator/raw/master/Misc/Media/Demo/Dark/downloads.png",
+                           "https://github.com/SuperMarcus/NineAnimator/raw/master/Misc/Media/Demo/google_cast.png"
+                        ],
+         "permissions":[
+            {
+         "type":"background-fetch",
+         "usageDescription":"NineAnimator periodically refreshes the anime you've subscribed in the background to send you notifications."
+         },
+         {"type":"background-audio",
+         "usageDescription":"Allows NineAnimator to continue to play audio in the background."
+         }
+         ]
+         },
+
       {
+         "beta":false,
          "name":"iTorrent",
          "bundleIdentifier":"ru.nonamedude.iTorrent",
          "developerName":"Vinogradov Daniil",
