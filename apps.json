@@ -25,7 +25,7 @@
       },
 
       {
-         "beta":true,
+         "beta":false,
          "bundleIdentifier":"com.marcuszhou.NineAnimator",
          "developerName":"Marcus Zhou",
          "downloadURL":"https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/NineAnimator.ipa",
