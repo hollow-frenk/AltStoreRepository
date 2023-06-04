@@ -1,6 +1,5 @@
 {
 "apps":[
-   
       {
          "beta":false,
          "bundleIdentifier":"com.google.ios.youtube",
@@ -54,7 +53,7 @@
             "entitlements": [
                {
                   "name": "aps-environment"
-               }
+               },
             ],
             "privacy":[
                {
@@ -65,7 +64,7 @@
                 "type":"background-audio",
                 "usageDescription":"Consente a NineAnimator di continuare a riprodurre l'audio in background."
                }
-            ]
+            ],
          },      
 
       {
@@ -85,16 +84,11 @@
             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/iTorrent-screenshot-1.png",
             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/iTorrent-screenshot-2.png",
             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/iTorrent-screenshot-3.png"
-         ]
+         ],
       }
 
    "identifier":"com.hollowfrenk.altstorerepository",
    "name":"Hollow_frenk AltStore Repository",
-   "news":[
-      
-   ],
-   "userInfo":{
-      
-   }
-
+   "news":[],
+   "userInfo":{},
 }
