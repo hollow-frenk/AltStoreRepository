@@ -1,37 +1,36 @@
 {
-"apps":[
+   "apps": [
       {
-         "beta":false,
-         "bundleIdentifier":"com.google.ios.youtube",
-         "developerName":"MiRO92 & Qn_",
-         "downloadURL":"https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa",
-         "iconURL":"https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Appicon/YouTube.png",
-         "localizedDescription":"uYouPlus è una versione modificata di uYou con alcune funzionalità extra! (richiede iOS 14.0 e versioni successive).\n\nLe informazioni complete su uYouPlus (uYou+) sono disponibili sul Github di Nguyễn Đạt: https://github.com/qnblackcat/uYouPlus/\n\nCrediti: conservare i crediti se si ricarica uYouPlus! \nhttps://github.com/qnblackcat/uYouPlus#credits\n\nAttenzione:\n- Se ti piace l'app, considera il supporto degli sviluppatori!\n- YTUHD non è stabile al momento. Potresti riscontrare rallentamenti, surriscaldamento, consumo eccessivo della batteria..., specialmente quando riproduci video con qualità 2160p (4K). Tuttavia, ciò non dovrebbe accadere se utilizzi TrollStore.\n- A meno che tu non stia utilizzando TrollStore, il deep-link (ovvero Apri nell'app YouTube) semplicemente non funzionerà.\n\nProblemi noti:\n- Problemi di uYou’s: https ://github.com/MiRO92/uYou-for-YouTube/issues\n- Problemi di uYouPlus: https://github.com/qnblackcat/uYouPlus",
-         "name":"uYouPlus (uYou+)",
-         "screenshotURLs":[
+         "beta": false,
+         "bundleIdentifier": "com.google.ios.youtube",
+         "developerName": "MiRO92 & Qn_",
+         "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa",
+         "iconURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Appicon/YouTube.png",
+         "localizedDescription": "uYouPlus è una versione modificata di uYou con alcune funzionalità extra! (richiede iOS 14.0 e versioni successive).\n\nLe informazioni complete su uYouPlus (uYou+) sono disponibili sul Github di Nguyễn Đạt: https://github.com/qnblackcat/uYouPlus/\n\nCrediti: conservare i crediti se si ricarica uYouPlus! \nhttps://github.com/qnblackcat/uYouPlus#credits\n\nAttenzione:\n- Se ti piace l'app, considera il supporto degli sviluppatori!\n- YTUHD non è stabile al momento. Potresti riscontrare rallentamenti, surriscaldamento, consumo eccessivo della batteria..., specialmente quando riproduci video con qualità 2160p (4K). Tuttavia, ciò non dovrebbe accadere se utilizzi TrollStore.\n- A meno che tu non stia utilizzando TrollStore, il deep-link (ovvero Apri nell'app YouTube) semplicemente non funzionerà.\n\nProblemi noti:\n- Problemi di uYou’s: https ://github.com/MiRO92/uYou-for-YouTube/issues\n- Problemi di uYouPlus: https://github.com/qnblackcat/uYouPlus",
+         "name": "uYouPlus (uYou+)",
+         "screenshotURLs": [
             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-1.png",
             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-2.png",
             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-3.png",
             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-4.png",
             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-5.png"
          ],
-         "size":118000000,
-         "subtitle":"Una versione modificata di uYou con funzionalità extra!",
-         "tintColor":"ff0000",
-         "version":"18.14.1",
-         "versionDate":"2023-04-17T12:00:00-01:00",
-         "versionDescription":"v18.14.1 (3.0): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/qnblackcat/uYouPlus/releases/latest"
+         "size": 118000000,
+         "subtitle": "Una versione modificata di uYou con funzionalità extra!",
+         "tintColor": "ff0000",
+         "version": "18.14.1",
+         "versionDate": "2023-04-17T12:00:00-01:00",
+         "versionDescription": "v18.14.1 (3.0): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/qnblackcat/uYouPlus/releases/latest"
       },
-
       {
-         "beta":true,
-         "bundleIdentifier":"com.marcuszhou.NineAnimator",
-         "developerName":"Marcus Zhou",
-         "downloadURL":"https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/NineAnimator_1.3.0_Build_3.ipa",
-         "iconURL":"https://raw.githubusercontent.com/SuperMarcus/NineAnimator/master/Misc/icon_rendered.png",
-         "localizedDescription":"Questa è la versione alpha di NineAnimator che è instabile ma contiene le ultime correzioni di bug e funzionalità.\nNineAnimator è un'applicazione di streaming anime elegante e concisa specificamente progettata per iOS. È open source, il che significa che chiunque è invitato a contribuire e collaborare al progetto e, cosa più importante, che sei incoraggiato a \"modellare\" NineAnimator come preferisci (sotto i termini di GNU GPL 3.0).",
-         "name":"NineAnimator",
-         "screenshotURLs":[
+         "beta": true,
+         "bundleIdentifier": "com.marcuszhou.NineAnimator",
+         "developerName": "Marcus Zhou",
+         "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/NineAnimator_1.3.0_Build_3.ipa",
+         "iconURL": "https://raw.githubusercontent.com/SuperMarcus/NineAnimator/master/Misc/icon_rendered.png",
+         "localizedDescription": "Questa è la versione alpha di NineAnimator che è instabile ma contiene le ultime correzioni di bug e funzionalità.\nNineAnimator è un'applicazione di streaming anime elegante e concisa specificamente progettata per iOS. È open source, il che significa che chiunque è invitato a contribuire e collaborare al progetto e, cosa più importante, che sei incoraggiato a \"modellare\" NineAnimator come preferisci (sotto i termini di GNU GPL 3.0).",
+         "name": "NineAnimator",
+         "screenshotURLs": [
             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-1.png",
             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-2.png",
             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-3.png",
@@ -42,53 +41,55 @@
             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-8.png",
             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-9.png"
          ],
-         "size":25295450,
-         "subtitle":"",
-         "tintColor":"8038E5",
-         "version":"1.3.0",
+         "size": 25295450,
+         "subtitle": "",
+         "tintColor": "8038E5",
+         "version": "1.3.0",
          "build": "3",
-         "versionDate":"2023-05-31T12:00:00-01:00",
-         "versionDescription":"Versione: NineAnimator_Nightly.acf788d.iOS\nNote sulla versione precedente:\nImportante\r• Esegui il backup dei dati: ricorda di eseguire il backup della cronologia e degli abbonamenti prima di aggiornare l'app. In alcuni rari casi, gli aggiornamenti di NineAnimator potrebbero causare il ripristino delle impostazioni dell'app. Usa l'opzione 'Crea backup' nelle impostazioni dell'app per creare un file di backup.\r\n\r\n• Utenti TestFlight: tieni presente che le build della versione 1.2.7 non saranno immediatamente disponibili per NineAnimator Beta Programma di test. Utilizza [altri metodi di installazione](https://nineanimator.marcuszhou.com/docs/installation.html). Unisciti al nostro [server Discord](https://discord.gg/dzTVzeW) per ulteriori informazioni.\r\n\r\n• Utenti macOS: la build di macCatalyst non è firmata. Se il sistema ti dice che l'app non può essere aperta, vai su 'Preferenze di sistema -> Sicurezza e privacy' e consenti l'esecuzione dell'app. Unisciti al nostro [server Discord](https://discord.gg/dzTVzeW) per ulteriori informazioni.\r\n\r\n• Utenti iOS 12: a partire dalla versione 1.2.7 Build 6, NineAnimator solo supporta i dispositivi con iOS 12.3 o versioni successive. Unisciti al nostro [server Discord](https://discord.gg/dzTVzeW) per ulteriori informazioni.",
+         "versionDate": "2023-05-31T12:00:00-01:00",
+         "versionDescription": "Versione: NineAnimator_Nightly.acf788d.iOS\nNote sulla versione precedente:\nImportante\r• Esegui il backup dei dati: ricorda di eseguire il backup della cronologia e degli abbonamenti prima di aggiornare l'app. In alcuni rari casi, gli aggiornamenti di NineAnimator potrebbero causare il ripristino delle impostazioni dell'app. Usa l'opzione 'Crea backup' nelle impostazioni dell'app per creare un file di backup.\r\n\r\n• Utenti TestFlight: tieni presente che le build della versione 1.2.7 non saranno immediatamente disponibili per NineAnimator Beta Programma di test. Utilizza [altri metodi di installazione](https://nineanimator.marcuszhou.com/docs/installation.html). Unisciti al nostro [server Discord](https://discord.gg/dzTVzeW) per ulteriori informazioni.\r\n\r\n• Utenti macOS: la build di macCatalyst non è firmata. Se il sistema ti dice che l'app non può essere aperta, vai su 'Preferenze di sistema -> Sicurezza e privacy' e consenti l'esecuzione dell'app. Unisciti al nostro [server Discord](https://discord.gg/dzTVzeW) per ulteriori informazioni.\r\n\r\n• Utenti iOS 12: a partire dalla versione 1.2.7 Build 6, NineAnimator solo supporta i dispositivi con iOS 12.3 o versioni successive. Unisciti al nostro [server Discord](https://discord.gg/dzTVzeW) per ulteriori informazioni.",
          "appPermissions": {
             "entitlements": [
                {
                   "name": "aps-environment"
-               },
-            ],
-            "privacy":[
-               {
-                "name":"background-fetch",
-                "usageDescription":"NineAnimator aggiorna periodicamente l'anime che hai sottoscritto in background per inviarti notifiche."  
-               },
-               {  
-                "type":"background-audio",
-                "usageDescription":"Consente a NineAnimator di continuare a riprodurre l'audio in background."
                }
             ],
-         },      
-
+            "privacy": [
+               {
+                  "name": "background-fetch",
+                  "usageDescription": "NineAnimator aggiorna periodicamente l'anime che hai sottoscritto in background per inviarti notifiche."
+               },
+               {
+                  "type": "background-audio",
+                  "usageDescription": "Consente a NineAnimator di continuare a riprodurre l'audio in background."
+               }
+            ]
+         }
+      },
       {
-         "beta":false,
-         "name":"iTorrent",
-         "bundleIdentifier":"ru.nonamedude.iTorrent",
-         "developerName":"Vinogradov Daniil",
-         "version":"1.9",
-         "versionDate":"2022-12-28T12:00:00-01:00",
-         "downloadURL":"https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/iTorrent.ipa",
-         "localizedDescription":"Le informazioni complete su iTorrent sono disponibili sul Github di Vinogradov Daniil: https://github.com/XITRIX/iTorrent",
-         "iconURL":"https:\/\/ipa.cypwn.xyz\/serve\/icons\/iTorrent.png",
-         "tintColor":"FF273A",
-         "size":13454780,
-         "subtitle":"È un normale client torrent per iOS.",
-         "screenshotURLs":[
+         "beta": false,
+         "name": "iTorrent",
+         "bundleIdentifier": "ru.nonamedude.iTorrent",
+         "developerName": "Vinogradov Daniil",
+         "version": "1.9",
+         "versionDate": "2022-12-28T12:00:00-01:00",
+         "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/iTorrent.ipa",
+         "localizedDescription": "Le informazioni complete su iTorrent sono disponibili sul Github di Vinogradov Daniil: https://github.com/XITRIX/iTorrent",
+         "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/iTorrent.png",
+         "tintColor": "FF273A",
+         "size": 13454780,
+         "subtitle": "È un normale client torrent per iOS.",
+         "screenshotURLs": [
             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/iTorrent-screenshot-1.png",
             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/iTorrent-screenshot-2.png",
             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/iTorrent-screenshot-3.png"
-         ],
+         ]
       }
+   ],
+      
 
-   "identifier":"com.hollowfrenk.altstorerepository",
-   "name":"Hollow_frenk AltStore Repository",
-   "news":[],
-   "userInfo":{},
+   "identifier": "com.hollowfrenk.altstorerepository",
+   "name": "Hollow_frenk AltStore Repository",
+   "news": [],
+   "userInfo": {}
 }
