@@ -64,7 +64,17 @@
                   "usageDescription": "Consente a NineAnimator di continuare a riprodurre l'audio in background."
                }
             ]
-         }
+         },
+         "permissions": [
+            {
+               "type": "background-fetch",
+               "usageDescription": "NineAnimator aggiorna periodicamente l'anime che hai sottoscritto in background per inviarti notifiche."
+            },
+            {
+               "type": "background-audio",
+               "usageDescription": "Consente a NineAnimator di continuare a riprodurre l'audio in background."
+            }
+         ]
       },
       {
          "beta": false,
@@ -86,8 +96,6 @@
          ]
       }
    ],
-      
-
    "identifier": "com.hollowfrenk.altstorerepository",
    "name": "Hollow_frenk AltStore Repository",
    "news": [],
