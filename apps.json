@@ -52,7 +52,9 @@
          "versionDescription":"Versione: NineAnimator_Nightly.acf788d.iOS\nNote sulla versione precedente:\nImportante\r• Esegui il backup dei dati: ricorda di eseguire il backup della cronologia e degli abbonamenti prima di aggiornare l'app. In alcuni rari casi, gli aggiornamenti di NineAnimator potrebbero causare il ripristino delle impostazioni dell'app. Usa l'opzione 'Crea backup' nelle impostazioni dell'app per creare un file di backup.\r\n\r\n• Utenti TestFlight: tieni presente che le build della versione 1.2.7 non saranno immediatamente disponibili per NineAnimator Beta Programma di test. Utilizza [altri metodi di installazione](https://nineanimator.marcuszhou.com/docs/installation.html). Unisciti al nostro [server Discord](https://discord.gg/dzTVzeW) per ulteriori informazioni.\r\n\r\n• Utenti macOS: la build di macCatalyst non è firmata. Se il sistema ti dice che l'app non può essere aperta, vai su 'Preferenze di sistema -> Sicurezza e privacy' e consenti l'esecuzione dell'app. Unisciti al nostro [server Discord](https://discord.gg/dzTVzeW) per ulteriori informazioni.\r\n\r\n• Utenti iOS 12: a partire dalla versione 1.2.7 Build 6, NineAnimator solo supporta i dispositivi con iOS 12.3 o versioni successive. Unisciti al nostro [server Discord](https://discord.gg/dzTVzeW) per ulteriori informazioni.",
          "appPermissions": {
             "entitlements": [
-               {"name": "aps-environment"},
+               {
+                  "name": "aps-environment"
+               }
             ],
             "privacy":[
                {
@@ -85,7 +87,7 @@
             "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/iTorrent-screenshot-3.png"
          ]
       }
-   ],
+
    "identifier":"com.hollowfrenk.altstorerepository",
    "name":"Hollow_frenk AltStore Repository",
    "news":[
