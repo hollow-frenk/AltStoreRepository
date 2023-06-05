@@ -81,6 +81,17 @@
    ],
    "identifier": "com.hollowfrenk.altstorerepository",
    "name": "Hollow_frenk AltStore Repository",
+   "subtitle": "Tutte le mia app preferite in un solo posto.",
+   "description": "Benvenuto nella mia fonte! Qui troverai tutte le mie app preferite.",
+   "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
+   "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
+   "website": "https://example.com",
+   "tintColor": "#1a0018",
+   "featuredApps": [
+       "com.google.ios.youtube",
+       "com.marcuszhou.NineAnimator",
+       "ru.nonamedude.iTorrent"
+   ],
    "news": [],
    "userInfo": {}
 }
