@@ -113,6 +113,7 @@
    "tintColor": "#8710a9",
    "featuredApps": [
        "com.google.ios.youtube",
+       "com.google.ios.youtubemusic",
        "com.marcuszhou.NineAnimator",
        "ru.nonamedude.iTorrent"
    ],
