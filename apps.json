@@ -27,7 +27,7 @@
          "beta": false,
          "bundleIdentifier": "com.google.ios.youtubemusic",
          "developerName": "Ginsudev",
-         "downloadURL": "https://github.com/ginsudev/YTMusicUltimate/releases/download/v1.4.1/YTMusicUltimate_v1.4.1_YTM6.04.2.ipa",
+         "downloadURL": "https://github.com/ginsudev/YTMusicUltimate/releases/download/v1.4.1/YTMusicUltimate_v1.4.1_YTM6.05.1.ipa",
          "iconURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Appicon/YouTubeMusic.png",
          "localizedDescription": "YouTube Music Ultimate è una versione modificata di YouTube Music con alcune funzionalità extra! (richiede iOS 14.0 e versioni successive).\n\nLe informazioni complete su Youtube Music Ultimate sono disponibili sul Github di Ginsu: https://github.com/ginsudev/YTMusicUltimate/\n\nCrediti: conservare i crediti se si ricarica YouTube Music Ultimate! \n\nAttenzione:\n- Se ti piace l'app, considera il supporto degli sviluppatori!\n- Problemi di YouTube Music Ultimate: https://github.com/ginsudev/YTMusicUltimate/issues",
          "name": "YouTube Music Ultimate",
@@ -41,9 +41,10 @@
          "size": 57200000,
          "subtitle": "Una versione modificata di Youtube Music con funzionalità extra!",
          "tintColor": "ff0000",
-         "version": "6.04.2 (1.4.1)",
+         "version": "6.05.1",
+         "build": "141",
          "versionDate": "2023-05-25T12:00:00-01:00",
-         "versionDescription": "v6.04.2 (1.4.1): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/ginsudev/YTMusicUltimate/releases/latest"
+         "versionDescription": "v6.05.1 (1.4.1): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/ginsudev/YTMusicUltimate/releases/latest"
       },
       
       {
