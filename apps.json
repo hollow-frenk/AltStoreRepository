@@ -51,7 +51,7 @@
          "beta": true,
          "bundleIdentifier": "com.marcuszhou.NineAnimator",
          "developerName": "Marcus Zhou",
-         "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/NineAnimator_Nightly_Build_140.ipa",
+         "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/NineAnimator_Nightly_Build_142.ipa",
          "iconURL": "https://raw.githubusercontent.com/SuperMarcus/NineAnimator/master/Misc/icon_rendered.png",
          "localizedDescription": "Questa è la versione alpha di NineAnimator che è instabile ma contiene le ultime correzioni di bug e funzionalità.\nNineAnimator è un'applicazione di streaming anime elegante e concisa specificamente progettata per iOS. È open source, il che significa che chiunque è invitato a contribuire e collaborare al progetto e, cosa più importante, che sei incoraggiato a \"modellare\" NineAnimator come preferisci (sotto i termini di GNU GPL 3.0).",
          "name": "NineAnimator",
