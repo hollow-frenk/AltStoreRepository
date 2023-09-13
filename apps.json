@@ -57,6 +57,14 @@
       ],
       "versions": [
        {
+        "version": "6.18.2",
+        "date": "2023-09-06T12:00:00-01:00",
+        "size": 63200000,
+        "downloadURL": "https://github.com/ginsudev/YTMusicUltimate/releases/download/v1.5.2/YTMusicUltimate_v1.5.2_YTM6.18.2.ipa",
+        "localizedDescription": "v6.18.2 (1.5.2): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/ginsudev/YTMusicUltimate/releases/latest",
+        "minOSVersion": "12.0"
+       },
+       {
         "version": "6.05.1",
         "date": "2023-05-25T12:00:00-01:00",
         "size": 57200000,
