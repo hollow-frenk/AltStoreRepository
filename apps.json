@@ -68,7 +68,6 @@
      },
      {
       "name": "NineAnimator",
-      "beta": "true",
       "bundleIdentifier": "com.marcuszhou.NineAnimator",
       "developerName": "Marcus Zhou",
       "subtitle": "",
@@ -96,7 +95,7 @@
         "minOSVersion": "12.3"
        }
       ]
-     }
+     },
  ],
  "news": []
 }
