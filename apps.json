@@ -29,6 +29,79 @@
        "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-4.png",
        "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-5.png"
       ],
+
+      "appPermissions": {
+        "entitlements": [
+            {
+              "name": "com.apple.security.application-groups"
+            },
+            {
+              "name": "com.apple.developer.associated-domains"
+            },
+            {
+              "name": "com.apple.developer.coremedia.allow-alternate-video-decoder-selection"
+            },
+            {
+              "name": "com.apple.developer.usernotifications.time-sensitive"
+            },
+            {
+              "name": "get-task-allow"
+            },
+            {
+              "name": "com.apple.developer.device-information.user-assigned-device-name"
+            },
+            {
+              "name": "com.apple.developer.group-session"
+            },
+            {
+              "name": "keychain-access-groups"
+            },
+            {
+              "name": "com.apple.developer.networking.multicast"
+            },
+            {
+              "name": "aps-environment"
+            },
+            {
+              "name": "com.apple.developer.networking.wifi-info"
+            }
+          ],
+          "privacy": [
+            {
+              "name": "AppleMusic",
+              "usageDescription": "Consente di aggiungere i propri file audio ai video."
+            },
+            {
+              "name": "BluetoothPeripheral",
+              "usageDescription": "YouTube ha bisogno di un accesso bluetooth per scansionare i dispositivi Cast nelle vicinanze."
+            },
+            {
+              "name": "Camera",
+              "usageDescription": "Questo consente di creare video utilizzando l'app."
+            },
+            {
+              "name": "Contacts",
+              "usageDescription": "I vostri contatti saranno inviati ai server di YouTube per aiutarvi a trovare gli amici con cui condividere i video."
+            },
+            {
+              "name": "LocalNetwork",
+              "usageDescription": "L'accesso alla rete consente a YouTube di scoprire e connettersi a dispositivi come il televisore."
+            },
+            {
+              "name": "LocationWhenInUse",
+              "usageDescription": "Rende più facile allegare le informazioni sulla posizione ai video e ai live stream e consente di migliorare le raccomandazioni e gli annunci."
+            },
+            {
+              "name": "Microphone",
+              "usageDescription": "Ciò consente di includere l'audio nei video e di effettuare ricerche con la voce."
+            },
+            {
+              "name": "PhotoLibrary",
+              "usageDescription": "Consente di caricare i media già creati."
+            }
+          ]
+        },
+
       "versions": [
        {
         "version": "18.14.1",
