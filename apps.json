@@ -234,11 +234,19 @@
               "usageDescription": "L'accesso alla rete locale consente ad iTorrent di rendere raggiungibile il server web e/o WebDAV, se attivo, per lo scambio di file."
             },
             {
-              "name": "NSPhotoLibraryAddUsageDescription",
+              "name": "LocationAlways",
+              "usageDescription": "Permette ad iTorrent di supportare le live activity e la dynamic island."
+            },
+            {
+              "name": "LocationWhenInUse",
+              "usageDescription": "Permette ad iTorrent di supportare le live activity e la dynamic island."
+            },
+            {
+              "name": "PhotoLibraryAdd",
               "usageDescription": "L'accesso in sola scrittura alla libreria fotografica dell'utente consente ad iTorrent di salvare file nella galleria fotografica"
             },
             {
-              "name": "NSUserTrackingUsageDescription",
+              "name": "UserTracking",
               "usageDescription": "Consente ad iTorrent di fornire pubblicità personalizzate"
             }
 
