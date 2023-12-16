@@ -177,14 +177,14 @@
               "name": "com.apple.security.network.client"
             },
             {
-              "name": "com.apple.developer.usernotifications.time-sensitive"
+              "name": "aps-environment"
             }
           ],
           "privacy": [
 
             {
               "name": "LocalNetwork",
-              "usageDescription": "L'accesso alla rete consente a YouTube di scoprire e connettersi a dispositivi come il televisore."
+              "usageDescription": "L'accesso alla rete consente a NineAnimator di scoprire e connettersi a dispositivi come il televisore."
             }
 
           ]
