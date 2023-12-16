@@ -131,7 +131,7 @@
           "version": "6.20.2",
           "date": "2023-09-20T12:00:00-01:00",
           "size": 61600000,
-          "downloadURL": "https://raw.githubusercontent.com/ginsudev/YTMusicUltimate/releases/download/v1.5.2/YTMUltimate_v1.5.2_YTM6.20.2.ipa",
+          "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/YoutubeMusicUltimate/YTMUltimate_v1.5.2_YTM6.20.2.ipa",
           "localizedDescription": "v6.20.2 (1.5.2): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/ginsudev/YTMusicUltimate/releases/latest",
           "minOSVersion": "12.0"
          },
@@ -139,7 +139,7 @@
         "version": "6.17.5",
         "date": "2023-08-31T12:00:00-01:00",
         "size": 63200000,
-        "downloadURL": "https://raw.githubusercontent.com/ginsudev/YTMusicUltimate/releases/download/v1.5.1/YTMUltimate_v1.5.1_YTM6.17.5.ipa",
+        "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/YoutubeMusicUltimate/YTMUltimate_v1.5.1_YTM6.17.5.ipa",
         "localizedDescription": "v6.17.5 (1.5.1): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/ginsudev/YTMusicUltimate/releases/latest",
         "minOSVersion": "12.0"
        },
@@ -147,7 +147,7 @@
         "version": "6.16.4",
         "date": "2023-08-22T12:00:00-01:00",
         "size": 60100000,
-        "downloadURL": "https://raw.githubusercontent.com/ginsudev/YTMusicUltimate/releases/download/v1.5/YTMUltimate_v1.5_YTM6.16.4.ipa",
+        "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/YoutubeMusicUltimate/YTMUltimate_v1.5_YTM6.16.4.ipa",
         "localizedDescription": "v6.05.1 (1.5): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/ginsudev/YTMusicUltimate/releases/latest",
         "minOSVersion": "12.0"
        }
