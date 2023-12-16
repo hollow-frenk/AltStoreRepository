@@ -160,11 +160,11 @@
           "privacy": [
             {
               "name": "Bluetooth",
-              "usageDescription": "Consente di aggiungere i propri file audio ai video."
+              "usageDescription": "YouTube ha bisogno di accedere al bluetooth per scansionare i dispositivi Cast nelle vicinanze."
             },
             {
               "name": "BluetoothPeripheral",
-              "usageDescription": "YouTube ha bisogno di un accesso bluetooth per scansionare i dispositivi Cast nelle vicinanze."
+              "usageDescription": "YouTube ha bisogno di accedere al bluetooth per scansionare i dispositivi Cast nelle vicinanze."
             },
             {
               "name": "Camera",
@@ -176,19 +176,19 @@
             },
             {
               "name": "LocalNetwork",
-              "usageDescription": "L'accesso alla rete consente a YouTube di scoprire e connettersi a dispositivi come il televisore."
+              "usageDescription": "L'accesso alla rete consente a YouTube Music di scoprire e connettersi a dispositivi come il televisore."
             },
             {
               "name": "Microphone",
-              "usageDescription": "Ciò consente di includere l'audio nei video e di effettuare ricerche con la voce."
+              "usageDescription": "L'accesso al microfono consente a YouTube Music di effettuare ricerche con la voce."
             },
             {
               "name": "PhotoLibraryAdd",
-              "usageDescription": "Ciò consente di includere l'audio nei video e di effettuare ricerche con la voce."
+              "usageDescription": "L'accesso in sola lettura alla libreria fotografica consente a YouTube Music di salvare file nella galleria fotografica."
             },
             {
               "name": "PhotoLibrary",
-              "usageDescription": "Consente di caricare i media già creati."
+              "usageDescription": "L'accesso in sola lettura alla libreria fotografica consente a YouTube Music di caricare media già creati."
             }
           ]
         },
