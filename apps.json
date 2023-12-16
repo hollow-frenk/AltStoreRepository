@@ -214,6 +214,40 @@
        "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/iTorrent-screenshot-2.png",
        "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/iTorrent-screenshot-3.png"
       ],
+
+      "appPermissions": {
+        "entitlements": [
+            {
+              "name": "com.apple.developer.homekit"
+            },
+            {
+              "name": "com.apple.security.app-sandbox"
+            },
+            {
+              "name": "com.apple.security.network.client"
+            },
+            {
+              "name": "aps-environment"
+            }
+          ],
+          "privacy": [
+
+            {
+              "name": "LocalNetwork",
+              "usageDescription": "L'accesso alla rete locale consente ad iTorrent di rendere raggiungibile il server web e/o WebDAV, se attivo, per lo scambio di file."
+            },
+            {
+              "name": "NSPhotoLibraryAddUsageDescription",
+              "usageDescription": "L'accesso in sola scrittura alla libreria fotografica dell'utente consente ad iTorrent di salvare file nella galleria fotografica"
+            },
+            {
+              "name": "NSUserTrackingUsageDescription",
+              "usageDescription": "Consente ad iTorrent di fornire pubblicità personalizzate"
+            }
+
+          ]
+        },
+
       "versions": [
        {
         "version": "1.9",
