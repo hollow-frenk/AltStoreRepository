@@ -218,16 +218,13 @@
       "appPermissions": {
         "entitlements": [
             {
-              "name": "com.apple.developer.homekit"
-            },
-            {
-              "name": "com.apple.security.app-sandbox"
-            },
-            {
-              "name": "com.apple.security.network.client"
+              "name": "com.apple.security.personal-information.photos-library"
             },
             {
               "name": "aps-environment"
+            },
+            {
+              "name": "get-task-allow"
             }
           ],
           "privacy": [
