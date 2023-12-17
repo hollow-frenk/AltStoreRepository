@@ -158,7 +158,7 @@
           ],
           "privacy": [
             {
-              "name": "Bluetooth",
+              "name": "BluetoothAlways",
               "usageDescription": "YouTube ha bisogno di accedere al bluetooth per scansionare i dispositivi Cast nelle vicinanze."
             },
             {
