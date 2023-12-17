@@ -1,36 +1,36 @@
-{
- "name": "Hollow_frenk AltStore Repository",
- "identifier": "com.hollowfrenk.altstorerepository",
- "subtitle": "All my favorite apps in one place.",
- "description": "Welcome to my source! Here you will find all my favorite apps.",
- "iconURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/icon.jpeg",
- "headerURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/header2.jpeg",
- "website": "https://instagram.com/hollow_frenk?igshid=OGQ5ZDc2ODk2ZA==",
- "tintColor": "#8710a9",
- "featuredApps": [
-  "com.google.ios.youtube",
-  "com.google.ios.youtubemusic",
-  "com.marcuszhou.NineAnimator",
-  "ru.nonamedude.iTorrent"
- ],
- "apps": [
-     {
-      "name": "uYouPlus (uYou+)",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "MiRO92 & Qn_",
-      "subtitle": "Una versione modificata di uYou con funzionalità extra!",
-      "localizedDescription": "uYouPlus è una versione modificata di uYou con alcune funzionalità extra! (richiede iOS 14.0 e versioni successive).\n\nLe informazioni complete su uYouPlus (uYou+) sono disponibili sul Github di Nguyễn Đạt: https://github.com/qnblackcat/uYouPlus/\n\nCrediti: conservare i crediti se si ricarica uYouPlus! \nhttps://github.com/qnblackcat/uYouPlus#credits\n\nAttenzione:\n- Se ti piace l'app, considera il supporto degli sviluppatori!\n- YTUHD non è stabile al momento. Potresti riscontrare rallentamenti, surriscaldamento, consumo eccessivo della batteria..., specialmente quando riproduci video con qualità 2160p (4K). Tuttavia, ciò non dovrebbe accadere se utilizzi TrollStore.\n- A meno che tu non stia utilizzando TrollStore, il deep-link (ovvero Apri nell'app YouTube) semplicemente non funzionerà.\n\nProblemi noti:\n- Problemi di uYou’s: https://github.com/MiRO92/uYou-for-YouTube/issues\n- Problemi di uYouPlus: https://github.com/qnblackcat/uYouPlus",
-      "iconURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Appicon/YouTube.png",
-      "tintColor": "ff0000",
-      "screenshotURLs": [
-       "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-1.png",
-       "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-2.png",
-       "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-3.png",
-       "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-4.png",
-       "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-5.png"
-      ],
-      "appPermissions": {
-        "entitlements": [
+{ "//comment":"RepositoryData",
+  "name": "Hollow_frenk AltStore Repository",
+  "identifier": "com.hollowfrenk.altstorerepository",
+  "subtitle": "All my favorite apps in one place.",
+  "description": "Welcome to my source! Here you will find all my favorite apps.",
+  "iconURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/icon.jpeg",
+  "headerURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/header2.jpeg",
+  "website": "https://instagram.com/hollow_frenk?igshid=OGQ5ZDc2ODk2ZA==",
+  "tintColor": "#8710a9",
+  "featuredApps": [
+    "com.google.ios.youtube",
+    "com.google.ios.youtubemusic",
+    "com.marcuszhou.NineAnimator",
+    "ru.nonamedude.iTorrent"
+  ],
+  "apps": [
+      { "//comment":"uYou+",  
+        "name": "uYouPlus (uYou+)",
+        "bundleIdentifier": "com.google.ios.youtube",
+        "developerName": "MiRO92 & Qn_",
+        "subtitle": "Una versione modificata di uYou con funzionalità extra!",
+        "localizedDescription": "uYouPlus è una versione modificata di uYou con alcune funzionalità extra! (richiede iOS 14.0 e versioni successive).\n\nLe informazioni complete su uYouPlus (uYou+) sono disponibili sul Github di Nguyễn Đạt: https://github.com/qnblackcat/uYouPlus/\n\nCrediti: conservare i crediti se si ricarica uYouPlus! \nhttps://github.com/qnblackcat/uYouPlus#credits\n\nAttenzione:\n- Se ti piace l'app, considera il supporto degli sviluppatori!\n- YTUHD non è stabile al momento. Potresti riscontrare rallentamenti, surriscaldamento, consumo eccessivo della batteria..., specialmente quando riproduci video con qualità 2160p (4K). Tuttavia, ciò non dovrebbe accadere se utilizzi TrollStore.\n- A meno che tu non stia utilizzando TrollStore, il deep-link (ovvero Apri nell'app YouTube) semplicemente non funzionerà.\n\nProblemi noti:\n- Problemi di uYou’s: https://github.com/MiRO92/uYou-for-YouTube/issues\n- Problemi di uYouPlus: https://github.com/qnblackcat/uYouPlus",
+        "iconURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Appicon/YouTube.png",
+        "tintColor": "ff0000",
+        "screenshotURLs": [
+          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-1.png",
+          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-2.png",
+          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-3.png",
+          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-4.png",
+          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-5.png"
+        ],
+            "appPermissions": {
+              "entitlements": [
             {
               "name": "com.apple.security.application-groups"
             },
@@ -64,8 +64,8 @@
             {
               "name": "com.apple.developer.networking.wifi-info"
             }
-          ],
-          "privacy": [
+              ],
+                  "privacy": [
             {
               "name": "AppleMusic",
               "usageDescription": "Consente di aggiungere i propri file audio ai video."
@@ -98,36 +98,35 @@
               "name": "PhotoLibrary",
               "usageDescription": "Consente di caricare i media già creati."
             }
-          ]
-        },
-      "versions": [
-       {
+                  ] 
+                },
+                  "versions": [
+                      {
         "version": "18.14.1",
         "date": "2023-04-17T12:00:00-01:00",
         "size": 118000000,
         "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa",
         "localizedDescription": "v18.14.1 (3.0): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/qnblackcat/uYouPlus/releases/latest",
         "minOSVersion": "12.0"
-       }
+                      }
       ]
-     },
-     {
-      "name": "YouTube Music Ultimate",
-      "bundleIdentifier": "com.google.ios.youtubemusic",
-      "developerName": "Ginsudev",
-      "subtitle": "Una versione modificata di Youtube Music con funzionalità extra!",
-      "localizedDescription": "YouTube Music Ultimate è una versione modificata di YouTube Music con alcune funzionalità extra! (richiede iOS 14.0 e versioni successive).\n\nLe informazioni complete su Youtube Music Ultimate sono disponibili sul Github di Ginsu: https://github.com/ginsudev/YTMusicUltimate/\n\nCrediti: conservare i crediti se si ricarica YouTube Music Ultimate! \n\nAttenzione:\n- Se ti piace l'app, considera il supporto degli sviluppatori!\n- Problemi di YouTube Music Ultimate: https://github.com/ginsudev/YTMusicUltimate/issues",
-      "iconURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Appicon/YouTubeMusic.png",
-      "tintColor": "ff0000",
-      "screenshotURLs": [
-       "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-1.png",
-       "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-2.png",
-       "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-3.png",
-       "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-4.png",
-       "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-5.png"
-      ],
-
-      "appPermissions": {
+      },
+      { "//comment": "YouTube Music Ultimate",
+        "name": "YouTube Music Ultimate",
+        "bundleIdentifier": "com.google.ios.youtubemusic",
+        "developerName": "Ginsudev",
+        "subtitle": "Una versione modificata di Youtube Music con funzionalità extra!",
+        "localizedDescription": "YouTube Music Ultimate è una versione modificata di YouTube Music con alcune funzionalità extra! (richiede iOS 14.0 e versioni successive).\n\nLe informazioni complete su Youtube Music Ultimate sono disponibili sul Github di Ginsu: https://github.com/ginsudev/YTMusicUltimate/\n\nCrediti: conservare i crediti se si ricarica YouTube Music Ultimate! \n\nAttenzione:\n- Se ti piace l'app, considera il supporto degli sviluppatori!\n- Problemi di YouTube Music Ultimate: https://github.com/ginsudev/YTMusicUltimate/issues",
+        "iconURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Appicon/YouTubeMusic.png",
+        "tintColor": "ff0000",
+        "screenshotURLs": [
+          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-1.png",
+          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-2.png",
+          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-3.png",
+          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-4.png",
+          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-5.png"
+        ],
+        "appPermissions": {
         "entitlements": [
             {
               "name": "com.apple.security.application-groups"
@@ -184,7 +183,7 @@
             },
             {
               "name": "PhotoLibraryAdd",
-              "usageDescription": "L'accesso in sola lettura alla libreria fotografica consente a YouTube Music di salvare file nella galleria fotografica."
+              "usageDescription": "L'accesso in sola scrittura alla libreria fotografica consente a YouTube Music di salvare file nella galleria fotografica."
             },
             {
               "name": "PhotoLibrary",
@@ -192,53 +191,52 @@
             }
           ]
         },
-
-      "versions": [
-        {
-          "version": "6.20.2",
-          "date": "2023-09-20T12:00:00-01:00",
-          "size": 61600000,
-          "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/YoutubeMusicUltimate/YTMUltimate_v1.5.2_YTM6.20.2.ipa",
-          "localizedDescription": "v6.20.2 (1.5.2): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/ginsudev/YTMusicUltimate/releases/latest",
-          "minOSVersion": "12.0"
-         },
-       {
-        "version": "6.17.5",
-        "date": "2023-08-31T12:00:00-01:00",
-        "size": 63200000,
-        "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/YoutubeMusicUltimate/YTMUltimate_v1.5.1_YTM6.17.5.ipa",
-        "localizedDescription": "v6.17.5 (1.5.1): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/ginsudev/YTMusicUltimate/releases/latest",
-        "minOSVersion": "12.0"
-       },
-       {
-        "version": "6.16.4",
-        "date": "2023-08-22T12:00:00-01:00",
-        "size": 60100000,
-        "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/YoutubeMusicUltimate/YTMUltimate_v1.5_YTM6.16.4.ipa",
-        "localizedDescription": "v6.05.1 (1.5): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/ginsudev/YTMusicUltimate/releases/latest",
-        "minOSVersion": "12.0"
-       }
-      ]
-     },
-     {
-      "name": "NineAnimator",
-      "bundleIdentifier": "com.marcuszhou.NineAnimator",
-      "developerName": "Marcus Zhou",
-      "subtitle": "",
-      "localizedDescription": "Questa è la versione alpha di NineAnimator che è instabile ma contiene le ultime correzioni di bug e funzionalità.\nNineAnimator è un'applicazione di streaming anime elegante e concisa specificamente progettata per iOS. È open source, il che significa che chiunque è invitato a contribuire e collaborare al progetto e, cosa più importante, che sei incoraggiato a \"modellare\" NineAnimator come preferisci (sotto i termini di GNU GPL 3.0).",
-      "iconURL": "https://raw.githubusercontent.com/SuperMarcus/NineAnimator/master/Misc/icon_rendered.png",
-      "tintColor": "8038E5",
-      "screenshotURLs": [
-       "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-1.png",
-       "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-2.png",
-       "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-3.png",
-       "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-4.png",
-       "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-5.png",
-       "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-6.png",
-       "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-7.png",
-       "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-8.png",
-       "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-9.png"
-      ],
+        "versions": [
+          {
+            "version": "6.20.2",
+            "date": "2023-09-20T12:00:00-01:00",
+            "size": 61600000,
+            "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/YoutubeMusicUltimate/YTMUltimate_v1.5.2_YTM6.20.2.ipa",
+            "localizedDescription": "v6.20.2 (1.5.2): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/ginsudev/YTMusicUltimate/releases/latest",
+            "minOSVersion": "12.0"
+          },
+          {
+            "version": "6.17.5",
+            "date": "2023-08-31T12:00:00-01:00",
+            "size": 63200000,
+            "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/YoutubeMusicUltimate/YTMUltimate_v1.5.1_YTM6.17.5.ipa",
+            "localizedDescription": "v6.17.5 (1.5.1): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/ginsudev/YTMusicUltimate/releases/latest",
+            "minOSVersion": "12.0"
+          },
+          {
+            "version": "6.16.4",
+            "date": "2023-08-22T12:00:00-01:00",
+            "size": 60100000,
+            "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/YoutubeMusicUltimate/YTMUltimate_v1.5_YTM6.16.4.ipa",
+            "localizedDescription": "v6.05.1 (1.5): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/ginsudev/YTMusicUltimate/releases/latest",
+            "minOSVersion": "12.0"
+          }
+        ]
+      },
+      { "//comment":"NineAnimator",
+        "name": "NineAnimator",
+        "bundleIdentifier": "com.marcuszhou.NineAnimator",
+        "developerName": "Marcus Zhou",
+        "subtitle": "",
+        "localizedDescription": "Questa è la versione alpha di NineAnimator che è instabile ma contiene le ultime correzioni di bug e funzionalità.\nNineAnimator è un'applicazione di streaming anime elegante e concisa specificamente progettata per iOS. È open source, il che significa che chiunque è invitato a contribuire e collaborare al progetto e, cosa più importante, che sei incoraggiato a \"modellare\" NineAnimator come preferisci (sotto i termini di GNU GPL 3.0).",
+        "iconURL": "https://raw.githubusercontent.com/SuperMarcus/NineAnimator/master/Misc/icon_rendered.png",
+        "tintColor": "8038E5",
+        "screenshotURLs": [
+          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-1.png",
+          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-2.png",
+          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-3.png",
+          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-4.png",
+          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-5.png",
+          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-6.png",
+          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-7.png",
+          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-8.png",
+          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-9.png"
+        ],
       "appPermissions": {
         "entitlements": [
             {
@@ -273,23 +271,22 @@
         "minOSVersion": "12.3"
        }
       ]
-     },
-     {
-      "name": "iTorrent",
-      "bundleIdentifier": "ru.nonamedude.iTorrent",
-      "developerName": "Vinogradov Daniil",
-      "subtitle": "È un normale client torrent per iOS.",
-      "localizedDescription": "Le informazioni complete su iTorrent sono disponibili sul Github di Vinogradov Daniil: https://github.com/XITRIX/iTorrent",
-      "iconURL": "https://ipa.cypwn.xyz/serve/icons/iTorrent.png",
-      "tintColor": "FF273A",
-      "screenshotURLs": [
+      },
+      { "//comment":"iTorrent",
+        "name": "iTorrent",
+        "bundleIdentifier": "ru.nonamedude.iTorrent",
+        "developerName": "Vinogradov Daniil",
+        "subtitle": "È un normale client torrent per iOS.",
+        "localizedDescription": "Le informazioni complete su iTorrent sono disponibili sul Github di Vinogradov Daniil: https://github.com/XITRIX/iTorrent",
+        "iconURL": "https://ipa.cypwn.xyz/serve/icons/iTorrent.png",
+        "tintColor": "FF273A",
+        "screenshotURLs": [
        "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/iTorrent-screenshot-1.png",
        "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/iTorrent-screenshot-2.png",
        "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/iTorrent-screenshot-3.png"
-      ],
-
-      "appPermissions": {
-        "entitlements": [
+        ],
+        "appPermissions": {
+          "entitlements": [
             {
               "name": "com.apple.security.personal-information.photos-library"
             },
@@ -301,7 +298,6 @@
             }
           ],
           "privacy": [
-
             {
               "name": "LocalNetwork",
               "usageDescription": "L'accesso alla rete locale consente ad iTorrent di rendere raggiungibile il server web e/o WebDAV, se attivo, per lo scambio di file."
@@ -322,21 +318,21 @@
               "name": "UserTracking",
               "usageDescription": "Consente ad iTorrent di fornire pubblicità personalizzate"
             }
-
           ]
         },
+        "versions": [
+        {
+          "version": "1.9",
+          "date": "2023-12-12T12:00:00-01:00",
+          "size": 18300000,
+          "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/iTorrent.ipa",
+          "localizedDescription": "",
+          "minOSVersion": "12.0"
+        }
+        ]
+      }
+  ],
+  "news": [
 
-      "versions": [
-       {
-        "version": "1.9",
-        "date": "2023-12-12T12:00:00-01:00",
-        "size": 18300000,
-        "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/iTorrent.ipa",
-        "localizedDescription": "",
-        "minOSVersion": "12.0"
-       }
-      ]
-     }
- ],
- "news": []
+  ]
 }
