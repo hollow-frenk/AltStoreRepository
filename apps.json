@@ -111,7 +111,7 @@
                       }
       ]
       },
-      { "//comment": "YouTube Music Ultimate",
+      { "//comment":"YouTube Music Ultimate",
         "name": "YouTube Music Ultimate",
         "bundleIdentifier": "com.google.ios.youtubemusic",
         "developerName": "Ginsudev",
