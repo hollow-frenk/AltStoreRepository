@@ -259,7 +259,6 @@
             }
           ],
           "privacy": [
-
             {
               "name": "LocalNetwork",
               "usageDescription": "L'accesso alla rete locale consente a NineAnimator di scoprire e connettersi a dispositivi come il televisore."
@@ -268,7 +267,6 @@
               "name": "HomeKit",
               "usageDescription": "L'integrazione con HomeKit consente a NineAnimator di impostare delle scene quando inizia e/o finisce la riproduzione AirPlay."
             }
-
           ]
         },
       "versions": [
