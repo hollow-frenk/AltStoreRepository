@@ -107,11 +107,10 @@
         "versions": [
         {
           "version": "18.49.3",
-          "buildVersion": "3.0.1",
           "date": "2023-12-12T12:00:00-01:00",
           "size": 118000000,
           "downloadURL": "https://github.com/arichorn/uYouEnhanced/releases/download/v18.49.3-3.0.1/uYouEnhanced_18.49.3_3.0.1.ipa",
-          "localizedDescription": "Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/arichorn/uYouEnhanced/latest",
+          "localizedDescription": "Versione uYou 3.0.1\nIl registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/arichorn/uYouEnhanced/latest",
           "minOSVersion": "12.0"
         }
         ]
