@@ -6,6 +6,7 @@
   "iconURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/icon.jpeg",
   "headerURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/header2.jpeg",
   "website": "https://instagram.com/hollow_frenk?igshid=OGQ5ZDc2ODk2ZA==",
+  "sourceURL":"https://hollow-frenk.github.io/AltStoreRepository/apps.json",
   "tintColor": "#8E7885",
   "featuredApps": [
     "com.google.ios.youtube",
