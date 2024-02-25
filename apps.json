@@ -107,6 +107,22 @@
         },
         "versions": [
         {
+          "version": "19.07.5",
+          "date": "2024-02-24T12:00:00-01:00",
+          "size": 130000000,
+          "downloadURL": "https://github.com/arichornlover/uYouEnhanced/releases/download/v19.07.5-3.0.3/uYouEnhanced_19.07.5-3.0.3.ipa",
+          "localizedDescription": "Versione uYou 3.0.3\nIl registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/arichorn/uYouEnhanced/latest",
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "19.06.2",
+          "date": "2024-02-21T12:00:00-01:00",
+          "size": 130000000,
+          "downloadURL": "https://github.com/arichornlover/uYouEnhanced/releases/download/v19.06.2-3.0.3/uYouEnhanced_19.06.2-3.0.3.ipa",
+          "localizedDescription": "Versione uYou 3.0.3\nIl registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/arichorn/uYouEnhanced/latest",
+          "minOSVersion": "12.0"
+        },
+        {
           "version": "19.06.2",
           "date": "2024-02-13T12:00:00-01:00",
           "size": 130000000,
