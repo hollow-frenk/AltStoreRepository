@@ -108,9 +108,9 @@
         "versions": [
         {
           "version": "19.08.2",
-          "date": "2024-02-28T12:00:00-01:00",
+          "date": "2024-03-06T12:00:00-01:00",
           "size": 130000000,
-          "downloadURL": "https://github.com/arichornlover/uYouEnhanced/releases/download/v19.08.2-3.0.3/uYouEnhanced_19.08.2-3.0.3.ipa",
+          "downloadURL": "https://github.com/arichornlover/uYouEnhanced/releases/download/v19.08.2-3.0.3-F2/uYouEnhanced_19.08.2-3.0.3-F2.ipa",
           "localizedDescription": "Versione uYou 3.0.3\nIl registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/arichorn/uYouEnhanced/latest",
           "minOSVersion": "12.0"
         },
