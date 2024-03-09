@@ -1,4 +1,5 @@
-{ "//comment":"RepositoryData",
+{
+  "//comment": "RepositoryData",
   "name": "Hollow_frenk AltStore Repository",
   "identifier": "com.hollowfrenk.altstorerepository",
   "subtitle": "All my favorite apps in one place.",
@@ -6,7 +7,7 @@
   "iconURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/icon.jpeg",
   "headerURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/header2.jpeg",
   "website": "https://instagram.com/hollow_frenk?igshid=OGQ5ZDc2ODk2ZA==",
-  "sourceURL":"https://hollow-frenk.github.io/AltStoreRepository/apps.json",
+  "sourceURL": "https://hollow-frenk.github.io/AltStoreRepository/apps.json",
   "tintColor": "#8E7885",
   "featuredApps": [
     "com.google.ios.youtube",
@@ -15,24 +16,24 @@
     "ru.nonamedude.iTorrent"
   ],
   "apps": [
-      { "//comment":"uYouEnhanced",  
-        "name": "uYouEnhanced",
-        "bundleIdentifier": "com.google.ios.youtube",
-        "developerName": "arichorn",
-        "subtitle": "Una versione modificata di uYou+ con funzionalità extra!",
-        "localizedDescription": "uYouEnhanced è una versione modificata di uYou+ con alcune funzionalità extra! (richiede iOS 14.0 e versioni successive).\n\nLe informazioni complete su uYouEnhanced sono disponibili sul Github di arichorn: https://github.com/arichorn/uYouEnhanced/\n\nCrediti: conservare i crediti se si ricarica uYouPlus! \n\nAttenzione:\n- Se ti piace l'app, considera il supporto degli sviluppatori!\n- YTUHD non è stabile al momento. Potresti riscontrare rallentamenti, surriscaldamento, consumo eccessivo della batteria..., specialmente quando riproduci video con qualità 2160p (4K). Tuttavia, ciò non dovrebbe accadere se utilizzi TrollStore.\n- A meno che tu non stia utilizzando TrollStore, il deep-link (ovvero Apri nell'app YouTube) semplicemente non funzionerà.\n\nProblemi noti:\n- Problemi di uYou’s: https://github.com/MiRO92/uYou-for-YouTube/issues\n- Problemi di uYouEnhanced: https://github.com/arichorn/uYouEnhanced",
-        "iconURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Appicon/YouTube.png",
-        "tintColor": "ff0000",
-        "category":"photo-video",
-        "screenshotURLs": [
+    { "//comment": "uYouEnhanced",
+      "name": "uYouEnhanced",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "arichorn",
+      "subtitle": "Una versione modificata di uYou+ con funzionalità extra!",
+      "localizedDescription": "uYouEnhanced è una versione modificata di uYou+ con alcune funzionalità extra! (richiede iOS 14.0 e versioni successive).\n\nLe informazioni complete su uYouEnhanced sono disponibili sul Github di arichorn: https://github.com/arichorn/uYouEnhanced/\n\nCrediti: conservare i crediti se si ricarica uYouPlus! \n\nAttenzione:\n- Se ti piace l'app, considera il supporto degli sviluppatori!\n- YTUHD non è stabile al momento. Potresti riscontrare rallentamenti, surriscaldamento, consumo eccessivo della batteria..., specialmente quando riproduci video con qualità 2160p (4K). Tuttavia, ciò non dovrebbe accadere se utilizzi TrollStore.\n- A meno che tu non stia utilizzando TrollStore, il deep-link (ovvero Apri nell'app YouTube) semplicemente non funzionerà.\n\nProblemi noti:\n- Problemi di uYou’s: https://github.com/MiRO92/uYou-for-YouTube/issues\n- Problemi di uYouEnhanced: https://github.com/arichorn/uYouEnhanced",
+      "iconURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Appicon/YouTube.png",
+      "tintColor": "ff0000",
+      "category": "photo-video",
+      "screenshotURLs": [
         "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-1.png",
         "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-2.png",
         "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-3.png",
         "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-4.png",
         "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-5.png"
-        ],
-        "appPermissions": {
-          "entitlements": [
+      ],
+      "appPermissions": {
+        "entitlements": [
           {
             "name": "com.apple.security.application-groups"
           },
@@ -69,8 +70,8 @@
           {
             "name": "com.apple.developer.siri"
           }
-          ],
-            "privacy": [
+        ],
+        "privacy": [
           {
             "name": "AppleMusic",
             "usageDescription": "Consente di aggiungere i propri file audio ai video."
@@ -103,9 +104,17 @@
             "name": "PhotoLibrary",
             "usageDescription": "Consente di caricare i media già creati."
           }
-            ] 
+        ]
+      },
+      "versions": [
+        {
+          "version": "19.09.4",
+          "date": "2024-03-07T12:00:00-01:00",
+          "size": 138000000,
+          "downloadURL": "https://www.dropbox.com/scl/fi/4qjuz3aq8x11azgewnlj3/uYouPlus_19.09.4-3.0.3.ipa?rlkey=pauojk66n497xa78ze4f3sisv&dl=1",
+          "localizedDescription": "Versione uYou 3.0.3\nIl registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/arichorn/uYouEnhanced/latest",
+          "minOSVersion": "12.0"
         },
-        "versions": [
         {
           "version": "19.08.2",
           "date": "2024-03-06T12:00:00-01:00",
@@ -170,245 +179,245 @@
           "localizedDescription": "Versione uYou 3.0.1\nIl registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/arichorn/uYouEnhanced/releases/tag/v18.48.3-3.0.1",
           "minOSVersion": "12.0"
         }
-        ]
-      },
-      { "//comment":"YouTube Music Ultimate",
-        "name": "YouTube Music Ultimate",
-        "bundleIdentifier": "com.google.ios.youtubemusic",
-        "developerName": "Ginsudev",
-        "subtitle": "Una versione modificata di Youtube Music con funzionalità extra!",
-        "localizedDescription": "YouTube Music Ultimate è una versione modificata di YouTube Music con alcune funzionalità extra! (richiede iOS 14.0 e versioni successive).\n\nLe informazioni complete su Youtube Music Ultimate sono disponibili sul Github di Ginsu: https://github.com/ginsudev/YTMusicUltimate/\n\nCrediti: conservare i crediti se si ricarica YouTube Music Ultimate! \n\nAttenzione:\n- Se ti piace l'app, considera il supporto degli sviluppatori!\n- Problemi di YouTube Music Ultimate: https://github.com/ginsudev/YTMusicUltimate/issues",
-        "category":"other",
-        "iconURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Appicon/YouTubeMusic.png",
-        "tintColor": "ff0000",
-        "screenshotURLs": [
-          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-1.png",
-          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-2.png",
-          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-3.png",
-          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-4.png",
-          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-5.png"
+      ]
+    },
+    { "//comment": "YouTube Music Ultimate",
+      "name": "YouTube Music Ultimate",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "Ginsudev",
+      "subtitle": "Una versione modificata di Youtube Music con funzionalità extra!",
+      "localizedDescription": "YouTube Music Ultimate è una versione modificata di YouTube Music con alcune funzionalità extra! (richiede iOS 14.0 e versioni successive).\n\nLe informazioni complete su Youtube Music Ultimate sono disponibili sul Github di Ginsu: https://github.com/ginsudev/YTMusicUltimate/\n\nCrediti: conservare i crediti se si ricarica YouTube Music Ultimate! \n\nAttenzione:\n- Se ti piace l'app, considera il supporto degli sviluppatori!\n- Problemi di YouTube Music Ultimate: https://github.com/ginsudev/YTMusicUltimate/issues",
+      "category": "other",
+      "iconURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Appicon/YouTubeMusic.png",
+      "tintColor": "ff0000",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-1.png",
+        "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-2.png",
+        "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-3.png",
+        "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-4.png",
+        "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/uYouPlus-screenshot-5.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "com.apple.security.application-groups"
+          },
+          {
+            "name": "com.apple.developer.associated-domains"
+          },
+          {
+            "name": "com.apple.developer.coremedia.allow-alternate-video-decoder-selection"
+          },
+          {
+            "name": "com.apple.developer.carplay-audio"
+          },
+          {
+            "name": "com.apple.developer.siri"
+          },
+          {
+            "name": "keychain-access-groups"
+          },
+          {
+            "name": "com.apple.developer.networking.multicast"
+          },
+          {
+            "name": "aps-environment"
+          },
+          {
+            "name": "com.apple.developer.networking.wifi-info"
+          }
         ],
-        "appPermissions": {
-          "entitlements": [
-            {
-              "name": "com.apple.security.application-groups"
-            },
-            {
-              "name": "com.apple.developer.associated-domains"
-            },
-            {
-              "name": "com.apple.developer.coremedia.allow-alternate-video-decoder-selection"
-            },
-            {
-              "name": "com.apple.developer.carplay-audio"
-            },
-            {
-              "name": "com.apple.developer.siri"
-            },
-            {
-              "name": "keychain-access-groups"
-            },
-            {
-              "name": "com.apple.developer.networking.multicast"
-            },
-            {
-              "name": "aps-environment"
-            },
-            {
-              "name": "com.apple.developer.networking.wifi-info"
-            }
-          ],
-            "privacy": [
-            {
-              "name": "BluetoothAlways",
-              "usageDescription": "YouTube ha bisogno di accedere al bluetooth per scansionare i dispositivi Cast nelle vicinanze."
-            },
-            {
-              "name": "BluetoothPeripheral",
-              "usageDescription": "YouTube ha bisogno di accedere al bluetooth per scansionare i dispositivi Cast nelle vicinanze."
-            },
-            {
-              "name": "Camera",
-              "usageDescription": "Questo consente di creare video utilizzando l'app."
-            },
-            {
-              "name": "Contacts",
-              "usageDescription": "I vostri contatti saranno inviati ai server di YouTube per aiutarvi a trovare gli amici con cui condividere i video."
-            },
-            {
-              "name": "LocalNetwork",
-              "usageDescription": "L'accesso alla rete consente a YouTube Music di scoprire e connettersi a dispositivi come il televisore."
-            },
-            {
-              "name": "Microphone",
-              "usageDescription": "L'accesso al microfono consente a YouTube Music di effettuare ricerche con la voce."
-            },
-            {
-              "name": "PhotoLibraryAdd",
-              "usageDescription": "L'accesso in sola scrittura alla libreria fotografica consente a YouTube Music di salvare file nella galleria fotografica."
-            },
-            {
-              "name": "PhotoLibrary",
-              "usageDescription": "L'accesso in sola lettura alla libreria fotografica consente a YouTube Music di caricare media già creati."
-            }
-            ]
-        },
-        "versions": [
+        "privacy": [
           {
-            "version": "6.34.1",
-            "buildVersion": "2.0",
-            "date": "2023-09-20T12:00:00-01:00",
-            "size": 77400000,
-            "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/YoutubeMusicUltimate/YTMUltimate_v2.0_YTM6.34.1.ipa",
-            "localizedDescription": "v6.34.1 (2.0): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/ginsudev/YTMusicUltimate/releases/latest",
-            "minOSVersion": "12.0"
+            "name": "BluetoothAlways",
+            "usageDescription": "YouTube ha bisogno di accedere al bluetooth per scansionare i dispositivi Cast nelle vicinanze."
           },
           {
-            "version": "6.20.2",
-            "buildVersion": "1.5.2",
-            "date": "2023-09-20T12:00:00-01:00",
-            "size": 61600000,
-            "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/YoutubeMusicUltimate/YTMUltimate_v1.5.2_YTM6.20.2.ipa",
-            "localizedDescription": "v6.20.2 (1.5.2): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/ginsudev/YTMusicUltimate/releases/latest",
-            "minOSVersion": "12.0"
+            "name": "BluetoothPeripheral",
+            "usageDescription": "YouTube ha bisogno di accedere al bluetooth per scansionare i dispositivi Cast nelle vicinanze."
           },
           {
-            "version": "6.17.5",
-            "buildVersion": "1.5.1",
-            "date": "2023-08-31T12:00:00-01:00",
-            "size": 63200000,
-            "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/YoutubeMusicUltimate/YTMUltimate_v1.5.1_YTM6.17.5.ipa",
-            "localizedDescription": "v6.17.5 (1.5.1): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/ginsudev/YTMusicUltimate/releases/latest",
-            "minOSVersion": "12.0"
+            "name": "Camera",
+            "usageDescription": "Questo consente di creare video utilizzando l'app."
           },
           {
-            "version": "6.16.4",
-            "buildVersion": "1.5",
-            "date": "2023-08-22T12:00:00-01:00",
-            "size": 60100000,
-            "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/YoutubeMusicUltimate/YTMUltimate_v1.5_YTM6.16.4.ipa",
-            "localizedDescription": "v6.05.1 (1.5): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/ginsudev/YTMusicUltimate/releases/latest",
-            "minOSVersion": "12.0"
+            "name": "Contacts",
+            "usageDescription": "I vostri contatti saranno inviati ai server di YouTube per aiutarvi a trovare gli amici con cui condividere i video."
+          },
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "L'accesso alla rete consente a YouTube Music di scoprire e connettersi a dispositivi come il televisore."
+          },
+          {
+            "name": "Microphone",
+            "usageDescription": "L'accesso al microfono consente a YouTube Music di effettuare ricerche con la voce."
+          },
+          {
+            "name": "PhotoLibraryAdd",
+            "usageDescription": "L'accesso in sola scrittura alla libreria fotografica consente a YouTube Music di salvare file nella galleria fotografica."
+          },
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "L'accesso in sola lettura alla libreria fotografica consente a YouTube Music di caricare media già creati."
           }
         ]
       },
-      { "//comment":"NineAnimator",
-        "name": "NineAnimator",
-        "bundleIdentifier": "com.marcuszhou.NineAnimator",
-        "developerName": "Marcus Zhou",
-        "subtitle": "",
-        "localizedDescription": "Questa è la versione alpha di NineAnimator che è instabile ma contiene le ultime correzioni di bug e funzionalità.\nNineAnimator è un'applicazione di streaming anime elegante e concisa specificamente progettata per iOS. È open source, il che significa che chiunque è invitato a contribuire e collaborare al progetto e, cosa più importante, che sei incoraggiato a \"modellare\" NineAnimator come preferisci (sotto i termini di GNU GPL 3.0).",
-        "iconURL": "https://raw.githubusercontent.com/SuperMarcus/NineAnimator/master/Misc/icon_rendered.png",
-        "tintColor": "8038E5",
-        "category":"entertainment",
-        "screenshotURLs": [
-          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-1.png",
-          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-2.png",
-          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-3.png",
-          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-4.png",
-          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-5.png",
-          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-6.png",
-          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-7.png",
-          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-8.png",
-          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-9.png"
-        ],
-        "appPermissions": {
-          "entitlements": [
-            {
-              "name": "com.apple.developer.homekit"
-            },
-            {
-              "name": "com.apple.security.app-sandbox"
-            },
-            {
-              "name": "com.apple.security.network.client"
-            },
-            {
-              "name": "aps-environment"
-            }
-          ],
-            "privacy": [
-            {
-              "name": "LocalNetwork",
-              "usageDescription": "L'accesso alla rete locale consente a NineAnimator di scoprire e connettersi a dispositivi come il televisore."
-            },
-            {
-              "name": "HomeKit",
-              "usageDescription": "L'integrazione con HomeKit consente a NineAnimator di impostare delle scene quando inizia e/o finisce la riproduzione AirPlay."
-            }
-            ]
+      "versions": [
+        {
+          "version": "6.34.1",
+          "buildVersion": "2.0",
+          "date": "2023-09-20T12:00:00-01:00",
+          "size": 77400000,
+          "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/YoutubeMusicUltimate/YTMUltimate_v2.0_YTM6.34.1.ipa",
+          "localizedDescription": "v6.34.1 (2.0): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/ginsudev/YTMusicUltimate/releases/latest",
+          "minOSVersion": "12.0"
         },
-        "versions": [
-      {
-        "version": "1.3.0",
-        "buildVersion":"6",
-        "date": "2023-12-13T12:00:00-01:00",
-        "size": 8100000,
-        "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/NineAnimator/NineAnimator_Nightly_1.3.0.6.ipa",
-        "localizedDescription": "Note sulla versione precedente:\nImportante\r• Esegui il backup dei dati: ricorda di eseguire il backup della cronologia e degli abbonamenti prima di aggiornare l'app. In alcuni rari casi, gli aggiornamenti di NineAnimator potrebbero causare il ripristino delle impostazioni dell'app. Usa l'opzione 'Crea backup' nelle impostazioni dell'app per creare un file di backup.\r\n\r\n• Utenti TestFlight: tieni presente che le build della versione 1.2.7 non saranno immediatamente disponibili per NineAnimator Beta Programma di test. Utilizza [altri metodi di installazione](https://nineanimator.marcuszhou.com/docs/installation.html). Unisciti al nostro [server Discord](https://discord.gg/dzTVzeW) per ulteriori informazioni.\r\n\r\n• Utenti macOS: la build di macCatalyst non è firmata. Se il sistema ti dice che l'app non può essere aperta, vai su 'Preferenze di sistema -> Sicurezza e privacy' e consenti l'esecuzione dell'app. Unisciti al nostro [server Discord](https://discord.gg/dzTVzeW) per ulteriori informazioni.\r\n\r\n• Utenti iOS 12: a partire dalla versione 1.2.7 Build 6, NineAnimator solo supporta i dispositivi con iOS 12.3 o versioni successive. Unisciti al nostro [server Discord](https://discord.gg/dzTVzeW) per ulteriori informazioni.",
-        "minOSVersion": "12.3"
-      },
-      {
-        "version": "1.3.0",
-        "buildVersion":"5",
-        "date": "2023-07-15T12:00:00-01:00",
-        "size": 25295450,
-        "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/NineAnimator/NineAnimator_Nightly_1.3.0.5.ipa",
-        "localizedDescription": "Note sulla versione precedente:\nImportante\r• Esegui il backup dei dati: ricorda di eseguire il backup della cronologia e degli abbonamenti prima di aggiornare l'app. In alcuni rari casi, gli aggiornamenti di NineAnimator potrebbero causare il ripristino delle impostazioni dell'app. Usa l'opzione 'Crea backup' nelle impostazioni dell'app per creare un file di backup.\r\n\r\n• Utenti TestFlight: tieni presente che le build della versione 1.2.7 non saranno immediatamente disponibili per NineAnimator Beta Programma di test. Utilizza [altri metodi di installazione](https://nineanimator.marcuszhou.com/docs/installation.html). Unisciti al nostro [server Discord](https://discord.gg/dzTVzeW) per ulteriori informazioni.\r\n\r\n• Utenti macOS: la build di macCatalyst non è firmata. Se il sistema ti dice che l'app non può essere aperta, vai su 'Preferenze di sistema -> Sicurezza e privacy' e consenti l'esecuzione dell'app. Unisciti al nostro [server Discord](https://discord.gg/dzTVzeW) per ulteriori informazioni.\r\n\r\n• Utenti iOS 12: a partire dalla versione 1.2.7 Build 6, NineAnimator solo supporta i dispositivi con iOS 12.3 o versioni successive. Unisciti al nostro [server Discord](https://discord.gg/dzTVzeW) per ulteriori informazioni.",
-        "minOSVersion": "12.3"
-      }
+        {
+          "version": "6.20.2",
+          "buildVersion": "1.5.2",
+          "date": "2023-09-20T12:00:00-01:00",
+          "size": 61600000,
+          "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/YoutubeMusicUltimate/YTMUltimate_v1.5.2_YTM6.20.2.ipa",
+          "localizedDescription": "v6.20.2 (1.5.2): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/ginsudev/YTMusicUltimate/releases/latest",
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "6.17.5",
+          "buildVersion": "1.5.1",
+          "date": "2023-08-31T12:00:00-01:00",
+          "size": 63200000,
+          "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/YoutubeMusicUltimate/YTMUltimate_v1.5.1_YTM6.17.5.ipa",
+          "localizedDescription": "v6.17.5 (1.5.1): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/ginsudev/YTMusicUltimate/releases/latest",
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "6.16.4",
+          "buildVersion": "1.5",
+          "date": "2023-08-22T12:00:00-01:00",
+          "size": 60100000,
+          "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/YoutubeMusicUltimate/YTMUltimate_v1.5_YTM6.16.4.ipa",
+          "localizedDescription": "v6.05.1 (1.5): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/ginsudev/YTMusicUltimate/releases/latest",
+          "minOSVersion": "12.0"
+        }
+      ]
+    },
+    { "//comment": "NineAnimator",
+      "name": "NineAnimator",
+      "bundleIdentifier": "com.marcuszhou.NineAnimator",
+      "developerName": "Marcus Zhou",
+      "subtitle": "",
+      "localizedDescription": "Questa è la versione alpha di NineAnimator che è instabile ma contiene le ultime correzioni di bug e funzionalità.\nNineAnimator è un'applicazione di streaming anime elegante e concisa specificamente progettata per iOS. È open source, il che significa che chiunque è invitato a contribuire e collaborare al progetto e, cosa più importante, che sei incoraggiato a \"modellare\" NineAnimator come preferisci (sotto i termini di GNU GPL 3.0).",
+      "iconURL": "https://raw.githubusercontent.com/SuperMarcus/NineAnimator/master/Misc/icon_rendered.png",
+      "tintColor": "8038E5",
+      "category": "entertainment",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-1.png",
+        "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-2.png",
+        "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-3.png",
+        "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-4.png",
+        "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-5.png",
+        "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-6.png",
+        "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-7.png",
+        "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-8.png",
+        "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/NineAnimator-screenshot-9.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "com.apple.developer.homekit"
+          },
+          {
+            "name": "com.apple.security.app-sandbox"
+          },
+          {
+            "name": "com.apple.security.network.client"
+          },
+          {
+            "name": "aps-environment"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "L'accesso alla rete locale consente a NineAnimator di scoprire e connettersi a dispositivi come il televisore."
+          },
+          {
+            "name": "HomeKit",
+            "usageDescription": "L'integrazione con HomeKit consente a NineAnimator di impostare delle scene quando inizia e/o finisce la riproduzione AirPlay."
+          }
         ]
       },
-      { "//comment":"iTorrent",
-        "name": "iTorrent",
-        "bundleIdentifier": "ru.nonamedude.iTorrent",
-        "developerName": "Vinogradov Daniil",
-        "subtitle": "È un normale client torrent per iOS.",
-        "localizedDescription": "Le informazioni complete su iTorrent sono disponibili sul Github di Vinogradov Daniil: https://github.com/XITRIX/iTorrent",
-        "iconURL": "https://ipa.cypwn.xyz/serve/icons/iTorrent.png",
-        "tintColor": "FF273A",
-        "category":"utilities",
-        "screenshotURLs": [
-          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/iTorrent-screenshot-1.png",
-          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/iTorrent-screenshot-2.png",
-          "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/iTorrent-screenshot-3.png"
-        ],
-        "appPermissions": {
-          "entitlements": [
-            {
-              "name": "com.apple.security.personal-information.photos-library"
-            },
-            {
-              "name": "aps-environment"
-            },
-            {
-              "name": "get-task-allow"
-            }
-          ],
-            "privacy": [
-            {
-              "name": "LocalNetwork",
-              "usageDescription": "L'accesso alla rete locale consente ad iTorrent di rendere raggiungibile il server web e/o WebDAV, se attivo, per lo scambio di file."
-            },
-            {
-              "name": "LocationAlways",
-              "usageDescription": "Permette ad iTorrent di supportare le live activity e la dynamic island."
-            },
-            {
-              "name": "LocationWhenInUse",
-              "usageDescription": "Permette ad iTorrent di supportare le live activity e la dynamic island."
-            },
-            {
-              "name": "PhotoLibraryAdd",
-              "usageDescription": "L'accesso in sola scrittura alla libreria fotografica dell'utente consente ad iTorrent di salvare file nella galleria fotografica"
-            },
-            {
-              "name": "UserTracking",
-              "usageDescription": "Consente ad iTorrent di fornire pubblicità personalizzate"
-            }
-            ]
+      "versions": [
+        {
+          "version": "1.3.0",
+          "buildVersion": "6",
+          "date": "2023-12-13T12:00:00-01:00",
+          "size": 8100000,
+          "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/NineAnimator/NineAnimator_Nightly_1.3.0.6.ipa",
+          "localizedDescription": "Note sulla versione precedente:\nImportante\r• Esegui il backup dei dati: ricorda di eseguire il backup della cronologia e degli abbonamenti prima di aggiornare l'app. In alcuni rari casi, gli aggiornamenti di NineAnimator potrebbero causare il ripristino delle impostazioni dell'app. Usa l'opzione 'Crea backup' nelle impostazioni dell'app per creare un file di backup.\r\n\r\n• Utenti TestFlight: tieni presente che le build della versione 1.2.7 non saranno immediatamente disponibili per NineAnimator Beta Programma di test. Utilizza [altri metodi di installazione](https://nineanimator.marcuszhou.com/docs/installation.html). Unisciti al nostro [server Discord](https://discord.gg/dzTVzeW) per ulteriori informazioni.\r\n\r\n• Utenti macOS: la build di macCatalyst non è firmata. Se il sistema ti dice che l'app non può essere aperta, vai su 'Preferenze di sistema -> Sicurezza e privacy' e consenti l'esecuzione dell'app. Unisciti al nostro [server Discord](https://discord.gg/dzTVzeW) per ulteriori informazioni.\r\n\r\n• Utenti iOS 12: a partire dalla versione 1.2.7 Build 6, NineAnimator solo supporta i dispositivi con iOS 12.3 o versioni successive. Unisciti al nostro [server Discord](https://discord.gg/dzTVzeW) per ulteriori informazioni.",
+          "minOSVersion": "12.3"
         },
-        "versions": [
+        {
+          "version": "1.3.0",
+          "buildVersion": "5",
+          "date": "2023-07-15T12:00:00-01:00",
+          "size": 25295450,
+          "downloadURL": "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Ipa/NineAnimator/NineAnimator_Nightly_1.3.0.5.ipa",
+          "localizedDescription": "Note sulla versione precedente:\nImportante\r• Esegui il backup dei dati: ricorda di eseguire il backup della cronologia e degli abbonamenti prima di aggiornare l'app. In alcuni rari casi, gli aggiornamenti di NineAnimator potrebbero causare il ripristino delle impostazioni dell'app. Usa l'opzione 'Crea backup' nelle impostazioni dell'app per creare un file di backup.\r\n\r\n• Utenti TestFlight: tieni presente che le build della versione 1.2.7 non saranno immediatamente disponibili per NineAnimator Beta Programma di test. Utilizza [altri metodi di installazione](https://nineanimator.marcuszhou.com/docs/installation.html). Unisciti al nostro [server Discord](https://discord.gg/dzTVzeW) per ulteriori informazioni.\r\n\r\n• Utenti macOS: la build di macCatalyst non è firmata. Se il sistema ti dice che l'app non può essere aperta, vai su 'Preferenze di sistema -> Sicurezza e privacy' e consenti l'esecuzione dell'app. Unisciti al nostro [server Discord](https://discord.gg/dzTVzeW) per ulteriori informazioni.\r\n\r\n• Utenti iOS 12: a partire dalla versione 1.2.7 Build 6, NineAnimator solo supporta i dispositivi con iOS 12.3 o versioni successive. Unisciti al nostro [server Discord](https://discord.gg/dzTVzeW) per ulteriori informazioni.",
+          "minOSVersion": "12.3"
+        }
+      ]
+    },
+    { "//comment": "iTorrent",
+      "name": "iTorrent",
+      "bundleIdentifier": "ru.nonamedude.iTorrent",
+      "developerName": "Vinogradov Daniil",
+      "subtitle": "È un normale client torrent per iOS.",
+      "localizedDescription": "Le informazioni complete su iTorrent sono disponibili sul Github di Vinogradov Daniil: https://github.com/XITRIX/iTorrent",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/iTorrent.png",
+      "tintColor": "FF273A",
+      "category": "utilities",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/iTorrent-screenshot-1.png",
+        "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/iTorrent-screenshot-2.png",
+        "https://raw.githubusercontent.com/hollow-frenk/AltStoreRepository/main/Screenshot/iTorrent-screenshot-3.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "com.apple.security.personal-information.photos-library"
+          },
+          {
+            "name": "aps-environment"
+          },
+          {
+            "name": "get-task-allow"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "L'accesso alla rete locale consente ad iTorrent di rendere raggiungibile il server web e/o WebDAV, se attivo, per lo scambio di file."
+          },
+          {
+            "name": "LocationAlways",
+            "usageDescription": "Permette ad iTorrent di supportare le live activity e la dynamic island."
+          },
+          {
+            "name": "LocationWhenInUse",
+            "usageDescription": "Permette ad iTorrent di supportare le live activity e la dynamic island."
+          },
+          {
+            "name": "PhotoLibraryAdd",
+            "usageDescription": "L'accesso in sola scrittura alla libreria fotografica dell'utente consente ad iTorrent di salvare file nella galleria fotografica"
+          },
+          {
+            "name": "UserTracking",
+            "usageDescription": "Consente ad iTorrent di fornire pubblicità personalizzate"
+          }
+        ]
+      },
+      "versions": [
         {
           "version": "1.9",
           "date": "2023-12-12T12:00:00-01:00",
@@ -417,10 +426,8 @@
           "localizedDescription": "",
           "minOSVersion": "12.0"
         }
-        ]
-      }
+      ]
+    }
   ],
-  "news": [
-
-  ]
+  "news": []
 }
