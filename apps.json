@@ -108,6 +108,14 @@
       },
       "versions": [
         {
+          "version": "19.10.5",
+          "date": "2024-03-07T12:00:00-01:00",
+          "size": 138000000,
+          "downloadURL": "https://www.dropbox.com/scl/fi/548ee7o9sm5s2w5knqeae/uYouPlus_19.10.5-3.0.3.ipa?rlkey=yaohrwu3l4zsrl805xcn12pyc&dl=1",
+          "localizedDescription": "Versione uYou 3.0.3\nIl registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/arichorn/uYouEnhanced/latest",
+          "minOSVersion": "12.0"
+        },
+        {
           "version": "19.09.4",
           "date": "2024-03-07T12:00:00-01:00",
           "size": 138000000,
