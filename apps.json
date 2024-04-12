@@ -1,5 +1,4 @@
 {
-	"//comment": "RepositoryData",
 	"name": "Hollow_frenk AltStore Repository",
 	"identifier": "com.hollowfrenk.altstorerepository",
 	"subtitle": "All my favorite apps in one place.",
@@ -17,7 +16,6 @@
 	],
 	"apps": [
 		{
-			"//comment": "uYouEnhanced",
 			"name": "uYouEnhanced",
 			"bundleIdentifier": "com.google.ios.youtube",
 			"developerName": "arichorn",
@@ -109,6 +107,14 @@
 			},
 			"versions": [
 				{
+					"version": "19.14.3",
+					"date": "2024-04-10T12:00:00-01:00",
+					"size": 130400000,
+					"downloadURL": "https://www.dropbox.com/scl/fi/ylt0b3qils8t0ojomi3m1/uYouEnhanced_19.14.3-3.0.3.ipa?rlkey=d219dtahdxeb7pvyc8y74w0e6&dl=1",
+					"localizedDescription": "Versione uYou 3.0.3\nIl registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/arichorn/uYouEnhanced/latest",
+					"minOSVersion": "12.0"
+				},
+				{
 					"version": "19.12.3",
 					"date": "2024-03-24T12:00:00-01:00",
 					"size": 129700000,
@@ -143,7 +149,6 @@
 			]
 		},
 		{
-			"//comment": "YouTube Music Ultimate",
 			"name": "YouTube Music Ultimate",
 			"bundleIdentifier": "com.google.ios.youtubemusic",
 			"developerName": "Ginsudev",
@@ -226,10 +231,19 @@
 			},
 			"versions": [
 				{
+					"version": "6.45",
+					"buildVersion": "2.0.6",
+					"date": "2024-04-01T12:00:00-01:00",
+					"size": 79700000,
+					"downloadURL": "https://www.dropbox.com/scl/fi/yme0267ry0httgt657vc9/YTMusicUltimate-1.ipa?rlkey=mejdrw6lali6ohg7znkct20px&dl=1",
+					"localizedDescription": "v6.45 (2.0.6): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/ginsudev/YTMusicUltimate/releases/latest",
+					"minOSVersion": "12.0"
+				},
+				{
 					"version": "6.43",
 					"buildVersion": "2.0.4",
 					"date": "2023-03-16T12:00:00-01:00",
-					"size": 75900000,
+					"size": 79600000,
 					"downloadURL": "https://www.dropbox.com/scl/fi/mvambx3cng587wf0la3of/YTMusicUltimate.ipa?rlkey=lwyevfces9b8l0zgtrpcrmxse&dl=1",
 					"localizedDescription": "v6.43 (2.0.4): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/ginsudev/YTMusicUltimate/releases/latest",
 					"minOSVersion": "12.0"
@@ -237,7 +251,6 @@
 			]
 		},
 		{
-			"//comment": "NineAnimator",
 			"name": "NineAnimator",
 			"bundleIdentifier": "com.marcuszhou.NineAnimator",
 			"developerName": "Marcus Zhou",
@@ -305,7 +318,6 @@
 			]
 		},
 		{
-			"//comment": "iTorrent",
 			"name": "iTorrent",
 			"bundleIdentifier": "ru.nonamedude.iTorrent",
 			"developerName": "Vinogradov Daniil",
