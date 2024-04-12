@@ -232,11 +232,11 @@
 			"versions": [
 				{
 					"version": "6.45",
-					"buildVersion": "2.0.6",
+					"buildVersion": "2.0.7",
 					"date": "2024-04-01T12:00:00-01:00",
 					"size": 79700000,
-					"downloadURL": "https://www.dropbox.com/scl/fi/yme0267ry0httgt657vc9/YTMusicUltimate-1.ipa?rlkey=mejdrw6lali6ohg7znkct20px&dl=1",
-					"localizedDescription": "v6.45 (2.0.6): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/ginsudev/YTMusicUltimate/releases/latest",
+					"downloadURL": "https://www.dropbox.com/scl/fi/xmhecf4fex1zm1weajrnz/YTMusicUltimate-2.ipa?rlkey=5jeolel5tj6hgc6f43i7ezlif&dl=1",
+					"localizedDescription": "v6.45 (2.0.7): Il registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/ginsudev/YTMusicUltimate/releases/latest",
 					"minOSVersion": "12.0"
 				},
 				{
