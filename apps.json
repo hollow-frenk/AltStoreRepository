@@ -107,6 +107,14 @@
 			},
 			"versions": [
 				{
+					"version": "19.18.2",
+					"date": "2024-04-60T12:00:00-01:00",
+					"size": 117200000,
+					"downloadURL": "https://www.dropbox.com/scl/fi/ayysw69tc0k7fbs8jas9o/uYouEnhanced_19.18.2-3.0.3.ipa?rlkey=79khxyf2420pjfxu5pklxymcz&dl=1",
+					"localizedDescription": "Versione uYou 3.0.3\nIl registro delle modifiche è disponibile all'indirizzo\nhttps://github.com/arichorn/uYouEnhanced/latest",
+					"minOSVersion": "12.0"
+				},
+				{
 					"version": "19.14.3",
 					"date": "2024-04-10T12:00:00-01:00",
 					"size": 130400000,
